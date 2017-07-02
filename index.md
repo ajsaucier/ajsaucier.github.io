@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Hi, there.
+Welcome
 ===
 
 I'm a web developer with a focus on accessibility and ease of use. I also enjoy writing about the things that interest me and that might interest others, so this is where I'll do that. Thanks.
