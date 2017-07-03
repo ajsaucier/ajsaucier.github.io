@@ -144,6 +144,8 @@ code {
 
 code {
   padding: 1px 5px;
+  background-color: #282c34;
+  color: #fff;
 }
 
 pre {
@@ -190,7 +192,17 @@ pre {
   clear: both;
 }
 
+/**
+ * For screen readers only
+ */
 
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+}
 
 /**
  * Icons
