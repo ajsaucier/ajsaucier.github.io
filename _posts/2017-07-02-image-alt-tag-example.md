@@ -2,6 +2,7 @@
 layout: post
 title: A Thought on Image Alt Tags
 categories: accessibility
+description: Drawing inspiration from a book's image captions, this post looks at an approach to image alt captions using the context of the page's content.
 ---
 After a shift in focus from the "new and cool" to the "usable by more people than those with perfect vision, hearing, motor skills, reading ability, brand new web browsers and massive screens", I find myself doing almost everything with an eye toward accessibility.
 
