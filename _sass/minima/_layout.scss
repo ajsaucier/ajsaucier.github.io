@@ -110,6 +110,9 @@
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
   background-color: $background-color;
+  p {
+    color: $grey-color-dark;
+  }
 }
 
 .footer-heading {
@@ -197,7 +200,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $grey-color-dark;
 }
 
 .post-link {
