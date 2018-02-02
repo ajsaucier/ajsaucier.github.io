@@ -28,7 +28,7 @@ The main attraction of *The End is Nigh* is its pure adrenaline, top stage desig
 
 ---
 
-**Summary:** This game was designed and developed by Edmund McMillen and Tyler Glaiel. It was ported to the Nintendo Switch and published by Nicalis. It was purchased for and reviewed on the Switch. Approximately 20 hours were devoted to single-player mode and the main game was completed. Some hidden items, extra stages and game cartridges were not found.
+**Credits:** This game was designed and developed by Edmund McMillen and Tyler Glaiel. It was ported to the Nintendo Switch and published by Nicalis. It was purchased for and reviewed on the Switch. Approximately 20 hours were devoted to single-player mode and the main game was completed. Some hidden items, extra stages and game cartridges were not found.
 
 **Accessibility points:** No subtitles are available for cutscenes, which is a bummer since the story will not be shared with deaf gamers. I could barely even hear the dialogue with a high volume. Luckily no noises are necessary during gameplay - it’s all visual. Chat boxes are available from characters throughout levels.
 
