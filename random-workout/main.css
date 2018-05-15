@@ -1,0 +1,131 @@
+body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    background: #ee0979;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  * {
+    transition: all .5s ease;
+    -webkit-transition: all .4s ease;
+  }
+  
+  h1 {
+    color: white;
+    text-shadow: 2px 2px 0 black;
+  }
+  
+  h2 {
+    color: white;
+    text-shadow: 2px 2px 0 black;
+  }
+  
+  h2 button {
+    all: inherit;
+    border: 0;
+    display: flex;
+    width: 100%;
+    padding: 0.5em 0;
+  }
+  
+  h2 button svg {
+    height: 1em;
+    margin-left: 1em;
+  }
+  
+  h2 button:hover, h2 button:focus {
+    outline: 2px white dashed;
+    cursor: pointer;
+  }
+  
+  h2 button:focus svg {
+    outline: 2px white solid;
+  }
+  
+  [aria-expanded="true"] .vert {
+    display: none;
+  }
+  
+  [aria-expanded] rect {
+    fill: currentColor;
+  }
+  
+  #form label {
+    display: block;
+    margin: 1em 0;
+    color: white;
+    text-shadow: 2px 2px 0 black;
+    font-size: 1.2em;
+  }
+  
+  #form textarea {
+    width: 100%;
+    height: 5em;
+  }
+
+  @media (min-width: 40em) {
+    #form textarea {
+      width: 90%;
+    }
+  }
+  
+  #show-form {
+    border: none;
+    border-radius: 0;
+    background-color: transparent;
+    color: white;
+    padding: 0;
+    font-size: 1em;
+    margin: 0;
+    text-shadow: 2px 2px 0 black;
+  }
+  
+  #generate-workout, #form [type=button] {
+    border: none;
+    border-radius: 1em;
+    background-color: #3f2b969c;
+    color: white;
+    padding: 1em;
+    font-size: 1em;
+    margin: 1em 0;
+  }
+  
+  #erase {
+    border: none;
+    border-radius: 1em;
+    background-color: #dd18189c;
+    color: white;
+    padding: 1em;
+    font-size: 1em;
+    margin: 1em 0;
+  }
+  
+  #generate-workout:hover, #generate-workout:active, #form [type=button]:hover, #form [type=button]:active {
+    background: #3f2b96;
+    cursor: pointer;
+  }
+  
+  #erase:hover, #erase:active {
+    background: #dd1818;
+    cursor: pointer;
+  }
+  
+  #randos div {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 1em;
+    border-radius: 1em;
+    margin-bottom: 1em;
+  }
+  
+   @media (min-width: 40em) {
+      #randos {
+       display: grid;
+       width: 100%;
+       grid-template-columns: 1fr 1fr 1fr 1fr;
+       grid-template-rows: auto;
+       grid-gap: 1em;
+    }
+     
+     #randos div {
+       margin-bottom: 0;
+     }
+  }

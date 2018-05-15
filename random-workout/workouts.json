@@ -1,0 +1,8 @@
+{
+    "arms" : [
+      "Here's what to do: -run all over the place until I'm sweating and almost dead", "lift some weights", "bench press 100 pounds"
+    ],
+    "legs" : ["run", "walk for 5 minutes", "jump off a cliff"],
+    "abs" : ["flex", "mad crunches"],
+    "cardio" : ["run run run", "okay just walk", "sprint sprint"]
+  }
