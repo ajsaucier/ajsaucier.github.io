@@ -1,8 +1,6 @@
 {
-    "arms" : [
-      "Here's what to do: -run all over the place until I'm sweating and almost dead", "lift some weights", "bench press 100 pounds"
-    ],
-    "legs" : ["run", "walk for 5 minutes", "jump off a cliff"],
-    "abs" : ["flex", "mad crunches"],
-    "cardio" : ["run run run", "okay just walk", "sprint sprint"]
-  }
+  "arms" : ["TRX row", "chest press", "band curl", "bosu DB curls", "bosu band pull", "bent over row", "skull crusher", "bosu DB row", "bosu hammer curl", "chest fly", "bosu back fly", "TRX curls"],
+  "legs" : ["KB squat", "slow bridge", "band lateral step", "bosu lateral lunge", "KB box squat", "box single-leg bridge", "BW lunge", "bridge on bosu", "donkey kicks", "fire hydrant pee"],
+  "abs" : ["MB crunch", "bosu crunch", "DB crunch with leg raise", "muffin top burner", "bosu plank with toe tap", "bosu DB crunch"],
+  "cardio" : ["run", "cardio blast"]
+}
