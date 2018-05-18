@@ -1,6 +1,6 @@
 {
-  "arms" : ["TRX row", "chest press", "band curl", "bosu DB curls", "bosu band pull", "bent over row", "skull crusher", "bosu DB row", "bosu hammer curl", "chest fly", "bosu back fly", "TRX curls"],
-  "legs" : ["KB squat", "slow bridge", "band lateral step", "bosu lateral lunge", "KB box squat", "box single-leg bridge", "BW lunge", "bridge on bosu", "donkey kicks", "fire hydrant pee"],
-  "abs" : ["MB crunch", "bosu crunch", "DB crunch with leg raise", "muffin top burner", "bosu plank with toe tap", "bosu DB crunch"],
+  "arms" : ["TRX row", "chest press", "band curl", "bosu DB curls", "bosu band pull", "bent over row", "skull crusher", "bosu DB row", "bosu hammer curl", "chest fly", "bosu back fly", "TRX curls", "bent over rows", "standing DB curl", "DB lateral raise", "front forward DB raise", "DB shrug", "MB chest press", "tricep kickback"],
+  "legs" : ["KB squat", "slow bridge", "band lateral step", "bosu lateral lunge", "KB box squat", "box single-leg bridge", "BW lunge", "bridge on bosu", "donkey kicks", "fire hydrant", "step-up with knee raise", "standing DB calf raise", "plie squat calf raise", "basic leg lift", "KB goblet squat", "squat side kick"],
+  "abs" : ["MB crunch", "bosu crunch", "DB crunch with leg raise", "muffin top burner", "bosu plank with toe tap", "bosu DB crunch", "bicycle crunches", "side planks", "plank glute kick", "lying leg lift", "reverse crunch", "flutter kicks", "BW walking lunge"],
   "cardio" : ["run", "cardio blast"]
 }
