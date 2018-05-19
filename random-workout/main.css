@@ -113,7 +113,7 @@ body {
 
   #randos .exercise-row {
     margin-bottom: 1em;
-    border-bottom: 2px dashed #3f2b9685;
+    border-bottom: 0.3em dotted #3f2b9685;
   }
   
   #randos .exercise-row div {
