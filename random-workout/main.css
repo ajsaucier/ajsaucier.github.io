@@ -87,6 +87,7 @@ body {
     padding: 1em;
     font-size: 1em;
     margin: 1em 0;
+    font-family: 'Montserrat', Arial, sans-serif;
   }
   
   #erase {
@@ -97,6 +98,7 @@ body {
     padding: 1em;
     font-size: 1em;
     margin: 1em 0;
+    font-family: 'Montserrat', Arial, sans-serif;
   }
   
   #generate-workout:hover, #generate-workout:active, #form [type=button]:hover, #form [type=button]:active {
@@ -108,8 +110,13 @@ body {
     background: #dd1818;
     cursor: pointer;
   }
+
+  #randos .exercise-row {
+    margin-bottom: 1em;
+    border-bottom: 2px dashed #3f2b9685;
+  }
   
-  #randos div {
+  #randos .exercise-row div {
     background: rgba(255, 255, 255, 0.5);
     padding: 1em;
     border-radius: 1em;
@@ -117,7 +124,7 @@ body {
   }
   
    @media (min-width: 40em) {
-      #randos {
+      #randos .exercise-row{
        display: grid;
        width: 100%;
        grid-template-columns: 1fr 1fr 1fr 1fr;

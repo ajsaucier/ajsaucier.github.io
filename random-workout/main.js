@@ -69,29 +69,34 @@ Array.prototype.forEach.call(headings, heading => {
 let cnt = 0;
 function generateWorkouts() {
     cnt++;
+
+    var exerciseRow = document.createElement("div");
+    exerciseRow.classList.add("exercise-row");
+    exerciseDiv.appendChild(exerciseRow);
+
     var newArmsDiv = document.createElement("div");
     newArmsDiv.setAttribute("id", `arms-${cnt}`);
-    newArmsDiv.setAttribute("class", "arms");
+    newArmsDiv.classList.add("arms");
     newArmsDiv.textContent = "💪 ";
-    exerciseDiv.appendChild(newArmsDiv);
+    exerciseRow.appendChild(newArmsDiv);
 
     var newLegsDiv = document.createElement("div");
     newLegsDiv.setAttribute("id", `legs-${cnt}`);
-    newLegsDiv.setAttribute("class", "legs");
+    newLegsDiv.classList.add("legs");
     newLegsDiv.textContent = "🏃‍  ";
-    exerciseDiv.appendChild(newLegsDiv);
+    exerciseRow.appendChild(newLegsDiv);
 
     var newAbsDiv = document.createElement("div");
     newAbsDiv.setAttribute("id", `abs-${cnt}`);
-    newAbsDiv.setAttribute("class", "abs");
+    newAbsDiv.classList.add("abs");
     newAbsDiv.textContent = "🏋️‍  ";
-    exerciseDiv.appendChild(newAbsDiv);
+    exerciseRow.appendChild(newAbsDiv);
 
     var newCardioDiv = document.createElement("div");
     newCardioDiv.setAttribute("id", `cardio-${cnt}`);
-    newCardioDiv.setAttribute("class", "cardio");
+    newCardioDiv.classList.add("cardio");
     newCardioDiv.textContent = "🚴‍ ";
-    exerciseDiv.appendChild(newCardioDiv);
+    exerciseRow.appendChild(newCardioDiv);
 
     var xhttp = new XMLHttpRequest();
     xhttp.responseType = 'json';
