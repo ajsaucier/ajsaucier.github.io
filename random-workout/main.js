@@ -6,7 +6,15 @@
 var armsInput = document.getElementById("arm");
 var legsInput = document.getElementById("leg");
 var absInput = document.getElementById("abs");
-var cardioInput = document.getElementById("cardio");
+var repsHeading = document.getElementById("reps");
+
+fetch("workouts.json")
+    .then(function(response){
+        response.json()
+        .then(function(data){
+            repsHeading.textContent += data.reps[Math.floor(Math.random()*data.reps.length)];
+        })
+    });
 
 function saveWorkout(e) {
     // stop the regular form submission
@@ -51,7 +59,7 @@ function saveWorkout(e) {
 var exerciseDiv = document.getElementById("randos");
 
 (function() {
-const headings = document.querySelectorAll('h2')
+const headings = document.querySelectorAll('h3')
 
 Array.prototype.forEach.call(headings, heading => {
     let btn = heading.querySelector('button')
@@ -92,12 +100,6 @@ function generateWorkouts() {
     newAbsDiv.textContent = "🏋️‍  ";
     exerciseRow.appendChild(newAbsDiv);
 
-    var newCardioDiv = document.createElement("div");
-    newCardioDiv.setAttribute("id", `cardio-${cnt}`);
-    newCardioDiv.classList.add("cardio");
-    newCardioDiv.textContent = "🚴‍ ";
-    exerciseRow.appendChild(newCardioDiv);
-
     var xhttp = new XMLHttpRequest();
     xhttp.responseType = 'json';
     xhttp.onreadystatechange = function() {
@@ -105,12 +107,10 @@ function generateWorkouts() {
             var randomArms = this.response.arms[Math.floor(Math.random()*this.response.arms.length)];
             var randomLegs = this.response.legs[Math.floor(Math.random()*this.response.legs.length)];
             var randomAbs = this.response.abs[Math.floor(Math.random()*this.response.abs.length)];
-            var randomCardio = this.response.cardio[Math.floor(Math.random()*this.response.cardio.length)];
 
             document.getElementById(`arms-${cnt}`).textContent += randomArms;
             document.getElementById(`legs-${cnt}`).textContent += randomLegs;
             document.getElementById(`abs-${cnt}`).textContent += randomAbs;
-            document.getElementById(`cardio-${cnt}`).textContent += randomCardio;
         }
     };
     xhttp.open("GET", "workouts.json", true);
