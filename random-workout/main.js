@@ -111,6 +111,22 @@ function generateWorkouts() {
             document.getElementById(`arms-${cnt}`).textContent += randomArms;
             document.getElementById(`legs-${cnt}`).textContent += randomLegs;
             document.getElementById(`abs-${cnt}`).textContent += randomAbs;
+
+            if(cnt) {
+                let armsRandomDiv = document.getElementsByClassName("arms");
+                let legsRandomDiv = document.getElementsByClassName("legs");
+                let absRandomDiv = document.getElementsByClassName("abs");
+            
+                Array.prototype.forEach.call(armsRandomDiv, arm => {
+                    arm.onclick = () => arm.innerHTML = "💪 " + this.response.arms[Math.floor(Math.random()*this.response.arms.length)];
+                })
+                Array.prototype.forEach.call(legsRandomDiv, leg => {
+                    leg.onclick = () => leg.innerHTML = "🏃‍  " + this.response.legs[Math.floor(Math.random()*this.response.legs.length)];
+                })
+                Array.prototype.forEach.call(absRandomDiv, abs => {
+                    abs.onclick = () => abs.innerHTML = "🏋️‍  " + this.response.abs[Math.floor(Math.random()*this.response.abs.length)];
+                })
+            }
         }
     };
     xhttp.open("GET", "workouts.json", true);
