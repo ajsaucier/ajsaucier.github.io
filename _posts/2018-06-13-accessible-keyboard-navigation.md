@@ -36,7 +36,7 @@ The nav can also be used with a mouse by clicking on each top level item to open
 
 ## HTML and CSS
 
-I left the colors the same as the original Codepen example, but added `<role="menu">` to the main `<ul>` of each menu and `<role="menuitem">` to each menu item `<li>`. I also added a simple `<span aria-hidden="true">&#x25be;</span>` as a downward arrow.
+I left the colors the same as the original Codepen example, but added `<role="menu">` to the main `<ul>` of each menu and `<role="menuitem">` to each actionable menu item `<a>`. I also added a simple `<span aria-hidden="true">&#x25be;</span>` as a downward arrow to each top level.
 
 ## Thanks
 
