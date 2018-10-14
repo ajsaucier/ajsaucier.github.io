@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The End is Nigh Review
-categories: video-games
+categories: blog
 description: A review of the adventurous and absurdly difficult platformer game designed by Edmund McMillen and released in 2017.
 ---
 ![Intro screen for The End is Nigh game depicting the main character Ash standing among ruined buildings and rain]({{ site.url }}/assets/images/the-end-is-nigh-intro.jpg)

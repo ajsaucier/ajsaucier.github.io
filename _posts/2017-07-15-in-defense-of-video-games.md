@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Defense of Video Games
-categories: video-games
+categories: blog
 description: A look at the positive aspects of video games in healthcare and mental health based on recent articles and past research.
 ---
 
