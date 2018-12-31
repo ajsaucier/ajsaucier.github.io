@@ -253,4 +253,15 @@
       @include relative-font-size(1.125);
     }
   }
+
+  /**
+  * Code blocks
+  */
+
+  div[class*="highlighter"] {
+    background: #282c34;
+    .highlight {
+      background: #282c34;
+    }
+  }
 }

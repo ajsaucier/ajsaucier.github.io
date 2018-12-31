@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Adam Saucier
 email: adam@ajsaucier.com
-description: Adam Saucier's portfolio and writings about various arts, music, politics and other interests.
+description: Adam Saucier's portfolio and other writings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ajsaucier.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Adam0113
