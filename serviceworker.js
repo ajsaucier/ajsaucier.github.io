@@ -16,8 +16,7 @@ addEventListener('install', installEvent => {
                 '/random-workout/main.css',
                 '/random-workout/main.js',
                 '/random-workout/workouts.json',
-                '/offline.html',
-                '/assets/main.css'
+                '/offline.html'
             ]);
         })
     );
