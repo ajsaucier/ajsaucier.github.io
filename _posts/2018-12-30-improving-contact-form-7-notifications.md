@@ -18,15 +18,15 @@ This code can be added to whatever file you use in your theme for custom JavaScr
 ```
 var requiredSpans = document.getElementsByClassName('wpcf7-not-valid-tip');
 
-var wpcf7Elm = document.querySelector( '.wpcf7' );
+var wpcf7Elm = document.querySelector('.wpcf7');
 
-wpcf7Elm.addEventListener( 'wpcf7invalid', function( event ) {
-    for (var i = 0; i < requiredSpans.length; i++) {
-        if (requiredSpans) {
-            requiredSpans[i].textContent = "Please fill out the required field " + requiredSpans[i].parentNode.previousElementSibling.textContent;
+if (wpcf7Elm) {
+    wpcf7Elm.addEventListener('wpcf7invalid', function(event) {
+        for (var d = 0; d < requiredSpans.length; d++) {
+            requiredSpans[d].textContent = "Please fill out the required field " + requiredSpans[d].parentNode.previousElementSibling.textContent;
         }
-    }
-}, false );
+    }, false);
+}
 ```
 For this to work correctly you'll need a label, which the plugin doesn't generate automatically. It should be straight HTML above the required field. It should be created like this, in the plugin dashboard where you build your contact forms:
 
