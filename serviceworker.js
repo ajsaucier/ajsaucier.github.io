@@ -1,9 +1,10 @@
-const version = 'V0.20';
+const version = 'V0.21';
 const staticCacheName =  version + 'staticfiles';
 const pagesCacheName = 'pages';
 const cacheList = [
   staticCacheName,
-  pagesCacheName
+  pagesCacheName,
+  imageCacheName
 ];
 
 addEventListener('install', installEvent => {
