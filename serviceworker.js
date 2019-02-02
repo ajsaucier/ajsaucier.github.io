@@ -1,5 +1,6 @@
-const version = 'V0.21';
+const version = 'V0.22';
 const staticCacheName =  version + 'staticfiles';
+const imageCacheName = 'images';
 const pagesCacheName = 'pages';
 const cacheList = [
   staticCacheName,
