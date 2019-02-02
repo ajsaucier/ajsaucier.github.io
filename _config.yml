@@ -17,7 +17,7 @@ title: Adam Saucier
 email: adam@ajsaucier.com
 description: Adam Saucier's portfolio and other writings.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ajsaucier.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ajsaucier.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Adam0113
 # github_username:  ajsaucier
 linkedin_username: adam-saucier-665b4345
