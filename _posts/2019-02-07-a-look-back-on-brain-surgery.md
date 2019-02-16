@@ -30,16 +30,14 @@ By the time my neurologist got to the right amount of meds (I’m weaning off th
 
 There isn’t a whole lot to think about when lying in a hospital bed after a seizure subsides. There are feelings of exhaustion and a sadness that it happened again. I also felt a lot of guilt that other people - usually my wife, dad or both - had to deal with this at all. Driving me to work, picking me up at the bus stop, driving me back and forth to the neurologist; the list goes on. I also remember being angry that the countdown to when I could drive again started all over after a seizure.
 
-Speaking of remembering - my memory started getting bad after the first seizure. It could be from the episodes or medications or both. It might not happen at all for some, depending on where the angioma is and where on the brain it bleeds.
-
 ## Surgery
 
 By the time six months went by and seizures were still happening - even though they weren’t major ones - I made up my mind to get the angioma removed. Instead of living with the fear that seizures could keep happening and with the benefit of its location making surgery possible at all, it seemed like a no-brainer.
-
-The factors behind the decision will never be exactly the same for any two people when considering those factors on top of their health insurance, location, other health conditions, and so on. If you do have the opportunity to have a surgery like this and are on the fence about it though, you might want to keep reading.
 
 When I first started discussing it with the surgeon - a brilliant (obviously) guy who was somehow able to bring his intelligence down a few pegs to make me understand this stuff - I was given a couple options. Because the angioma lived on an accessible part of my brain that controlled language processing (the left temporal lobe, to all you brain nerds out there), I would need to be conscious while parts of the procedure happened so I could show that I still functioned and he wouldn’t be removing the important bits. He’d be mapping out my brain in real time.
 
 The other option allows for the patient to be asleep during the whole procedure, but for the surgery to take place in two segments. It was the better option for someone who wouldn't want to be awake at all with their skull opened, but the risk of infection would be higher. For that reason, being awake during the surgery seemed like the way to go.
 
-As with most people, I read all over the internet about every aspect of awake craniotomy. There are videos out there, but the surgeon recommended not to watch them.
+### Preparation
+
+I read all over the internet about every aspect of awake craniotomy and how to prepare for it. Angioma Alliance has a great [article outlining every step in the process](http://angioma.org/pages.aspx?content=77&id=67), from preparing your employer and family right up to what to do in the operating room.
