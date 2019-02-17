@@ -12,6 +12,21 @@ My first tonic-clonic (aka grand mal) seizure happened the night of January 6, 2
 
 > Over 12 months almost all the scar scabs are gone, but the scar is still there and always admired by barbers
 
+My wife took amazing notes starting soon after my first seizure. She titled them "Raspberry" since an angioma - a cluster of tiny blood vessels - looks like a little raspberry. 
+
+She noted that I felt all the typical symptoms often, sometimes multiple times per day:
+
+* Frequent headaches
+* Difficulty focusing
+* Dizziness
+
+She also mentioned a lot of things I don't remember happening but were brought back vividly after reading them.
+
+* Random phrases that I think are common
+* Noises while asleep
+* Crying and sobbing seizure
+* Swelling pressure in my head
+
 ## Beginning
 
 When I was awake and a seizure was starting, there was always a very distinct feeling, an aura, happening a few seconds before it began. It’s common for epileptics to experience the same type of aura before every seizure. Mine was a complete loss of ability to speak or understand anything, followed by my head physically turning and locking to my right side, all happening within seconds.
