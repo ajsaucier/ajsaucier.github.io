@@ -64,4 +64,10 @@ After only two days and one night in the ICU - and sponge cake for every meal - 
 
 My greatest memory from the days after surgery was the surgeon paying me a surprise visit in the recovery room and giving me the OK to head home. It meant a lot and I'll always remember that part the most.
 
-Once the head dressing and drain was removed, all that was left was a bald head and a scar that looked like a big fish hook held together by about 40 staples.
+Once the head dressing and drain was removed, all that was left was a bald head with a little stitched-together hole and a scar that looked like a big fish hook held together by about 40 staples.
+
+## Back Home
+
+I depended on my wife for weeks after getting home to help wash my head with baby shampoo and dry it entirely. It's _really_ important that you make sure it's completely dry. I also wore a nurse bouffant cap every day and night for a couple weeks after getting home, just to be really sure that nothing got anywhere near that scar or the drain hole. I was extremely cautious to keep it from getting infected, to the point of paranoia. 
+
+> Just be very careful the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it; don't get it sunburnt; don't let your dog lick it; just keep it safe, clean and dry.
