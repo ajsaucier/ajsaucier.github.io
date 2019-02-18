@@ -37,3 +37,19 @@ Going through some white hallways to suddenly busting into a huge room with a bu
 Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. Before being put out, I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was for a period of time, so I thankfully missed the inserting of the catheter, the opening of my skull and all that good stuff.
 
 ## Waking Up
+
+At some point I was brought back to consciousness. The first thing I remember is feeling a lot of weight on my head, like a really heavy blanket was pushing it down into a pillow. Not painful though, just a little uncomfortable.
+
+The friendly surgical assistant was sitting in the same spot in front me with some drawings. He started asking me to identify what they were. There were many, but the only one I can really remember is the house. I was able to identify them until at some point I just couldn't. At those points, all I could do was sort of groan and space out. Then I'd come back to reality and he'd ask me again. I don't know how many times that went or how long it lasted. As far as my basic understanding of brain surgery goes, I think that was when the surgeon was mapping the areas of my brain that he could safely remove or not, based on where he was sending electrical signals.
+
+After that, I was put back under and never woke up again. Just kidding, I'm writing this now you dummy.
+
+## Days After
+
+The next thing I remember is being in the Intensive Care Unit (ICU) and hating the fact that I had a catheter. There was also a helmet of bandages on my head with a drain on the top coming from a hole that drained blood and tissue fluids. That was unexpected and a little gross to think about, but only stayed on for a couple days. I was also told that I was demanding to have the tube in the artery of my wrist removed before I was even fully awake; I don't remember doing that, but it sounds like something I'd do so I'll take my wife's word for it.
+
+Steroids were given through an IV every 30 minutes to reduce any swelling or pressure around the brain. That was the hardest and worst part of the first night after surgery. Sleeping was almost impossible, since the nurses needed to wake me up throughout the night to give me those steroids. 
+
+Speech and concentration were difficult at that point, but that's to be expected. I was able to walk around slowly and carefully with the help of a ICU nurse and 
+
+After only two days and one night in the ICU - and sponge cake for every meal - I was moved to a regular room for another day and night.
