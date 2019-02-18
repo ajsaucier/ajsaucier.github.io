@@ -6,6 +6,16 @@ description: >-
   A story about brain surgery to remove a cavernous angioma and the events that
   led up to it
 ---
+## Table of Contents
+
+* Preparation
+* Day Before
+* Day Of
+* Waking Up
+* Days After
+* Back Home
+* A Year Later and Summary
+
 It’s been almost exactly a year since getting a cavernous angioma removed in awake craniotomy. Over 12 months almost all the scabs are gone, but the scar is still there and always admired by barbers. I think it might be worth sharing the experience with others planning for it.
 
 By the time six months went by and seizures were still happening - even though they weren’t all major ones - I made up my mind to get the angioma removed. 
