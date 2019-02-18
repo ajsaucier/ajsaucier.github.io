@@ -71,3 +71,23 @@ Once the head dressing and drain was removed, all that was left was a bald head 
 I depended on my wife for weeks after getting home to help wash my head with baby shampoo and dry it entirely. It's _really_ important that you make sure it's completely dry. I also wore a nurse bouffant cap every day and night for a couple weeks after getting home, just to be really sure that nothing got anywhere near that scar or the drain hole. I was extremely cautious to keep it from getting infected, to the point of paranoia. 
 
 > Just be very careful the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it; don't get it sunburnt; don't let your dog lick it; just keep it safe, clean and dry.
+
+Strange things will happen. The side of your head with the scar on it will feel numb for a while; it was about six months for me. You might feel and hear little crackles and pops inside your head while the bone seals itself back together. That side will also swell and bruise a few days after the surgery. 
+
+I wouldn't recommend getting a haircut before at least a few months after you get home, especially if you're a guy who likes to get it cut close to your head. One comb swipe over the wrong area can rip a scab right off, and that's not fun. Believe me. I was lucky enough to have a barber who wore sanitary rubber gloves while touching my head. While probably not necessary, it gave me a little extra comfort.
+
+It took three weeks for me to feel well enough to go back to work. I still wore a winter hat everyday so the scar and drain hole were protected. Identifying the names of objects and people still took a little longer than normal, but it slowly improved and recovered. 
+
+> It'll definitely take time, maybe longer than you expect, to feel fully like yourself again.
+
+## A Year Later and Summary
+
+Now here it is, about a year and one month after the surgery. I still have scabs in certain areas, mostly behind my left ear. When I raise my eyebrows I can still feel a little stretch of the new skin. I wonder if that'll ever go away. But I can think, understand, read and learn better than I could since the whole ordeal started more than two years ago.
+
+To summarize this whole thing, here's the most important points:
+
+* If you're preparing for one, read [Angioma Alliance's Preparing for Surgery post](http://angioma.org/pages.aspx?content=77&id=67)
+* Don't let the thought of it consume you
+* Be prepared for a not-so-great experience in the recovery process, both in and out of the hospital
+* Be careful to not get the scar and drain hole infected for a while after surgery
+* If all goes well and it was successful, remember that it was totally worth it
