@@ -8,13 +8,13 @@ description: >-
 ---
 ## Table of Contents
 
-* Preparation
-* Day Before
-* Day Of
-* Waking Up
-* Days After
-* Back Home
-* A Year Later and Summary
+* [Preparation](#preparation)
+* [Day Before](#day-before)
+* [Day Of](#day-of)
+* [Waking Up](#waking-up)
+* [Days After](#days-after)
+* [Back Home](#back-home)
+* [A Year Later and Summary](#a-year-later-and-summary)
 
 It’s been almost exactly a year since getting a cavernous angioma removed in awake craniotomy. Over 12 months almost all the scabs are gone, but the scar is still there and always admired by barbers. I think it might be worth sharing the experience with others planning for it.
 
