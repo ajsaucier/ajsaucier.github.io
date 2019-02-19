@@ -30,7 +30,7 @@ The other option allows for the patient to be asleep during the whole procedure,
 
 Angioma Alliance has a great [article outlining every step in the surgery process](http://angioma.org/pages.aspx?content=77&id=67), from preparing your finances and family right up to what to do in the operating room. It's definitely worth it to read through this.
 
-The most important thing I can recommend is to not think too much about it. Take care of all the planning you need to do, then just stop thinking about it. As a person who almost passes out just thinking about getting blood drawn, it really helped me to keep it at a good distance. 
+The most important thing I can recommend is to not think too much about it. Take care of all the planning you need - like traveling, health insurance, signing a living will (if you choose to) - then just stop thinking about it. As a person who almost passes out just thinking about getting blood drawn, it really helped me to keep it at a good distance. 
 
 > Try not to talk about it every day with family and friends. That helped me see it as just a regular medical procedure and not something to flip out about when the day finally came.
 
@@ -38,19 +38,17 @@ The most important thing I can recommend is to not think too much about it. Take
 
 Your surgeon and his/her assistant will give you all the details about things like washing your hair and fasting the night before the surgery. I remember the anti-bacterial shampoo I used for two nights before the surgery (Hibiclens) feeling like pouring rubbing alcohol on my entire body.
 
-> It's a good idea to stay in a hotel close to the hospital, if possible. It was snowing the night before my surgery was scheduled, so it avoided the stress of not being able to get there in time. 
+> It's a good idea to stay in a hotel close to the hospital, if possible. You'll want to avoid the stress of not being able to get to the hospital in time. 
 
-Overall - as obvious as this is to say - just don't stress out about it. Feeling a little anxious is fine, but have confidence in your surgeon and think about how cool it'll be when you get to take a ton of photos of a big scar. Play a video game or solve some puzzles or do anything else that requires a lot of distraction and concentration the night before, and of course, sleep.
+Overall - as obvious as this is to say - just don't stress out about it. Feeling a little anxious is fine, but have confidence in your surgeon and think about how cool it'll be when you get to take a ton of photos of your big scar. Play a video game or solve some puzzles or do anything else that requires a lot of distraction and concentration the night before, and of course, sleep.
 
 ## Day Of
 
-Unless you're a morning person (assuming your surgery is scheduled for early in the morning), you'll probably be too tired to worry too much about the surgery coming up. The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After you say bye to whoever walked with you into the pre-op area, you'll be wheeled into the operating room. I'm not sure if everybody shares this view, but that place is just really cool. 
-
-> Going through some white hallways to suddenly bursting into a huge room with a bunch of people wearing goggles and masks is kind of euphoric. 
+Unless you're a morning person (assuming your surgery is scheduled for early in the morning), you'll probably be too tired to worry too much about the surgery coming up. The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After you say bye to whoever walked with you into the pre-op area, you'll be wheeled into the operating room.
 
 The surgeon asked me if I'd prefer to have him shave my whole head or just the necessary part. I was still conscious enough to think about how it would be an endless struggle to have one part of my hair growing back at a different length than the rest of it and how it might never be an even length again, unless it was all shaved off anyway. So I decided to have it all shaved; I think the surgeon agreed. 
 
-Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then made unconscious for a period of time, so I thankfully missed the inserting of the catheter, the opening of my skull and all that good stuff.
+Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then anesthetized for a period of time while the catheter was inserted and my skull was opened. The surgeon said that patients do sometimes hear a saw-like sound, but I didn't.
 
 ## Waking Up
 
