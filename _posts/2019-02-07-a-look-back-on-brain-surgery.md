@@ -98,4 +98,3 @@ To summarize this whole thing, here's the most important points:
 * Don't let the thought of it consume you
 * Be prepared for a not-so-great experience in the recovery process, both in and out of the hospital
 * Be careful to not get the scar and drain hole infected for a while after surgery
-* If all goes well and it was successful, remember that it was totally worth it
