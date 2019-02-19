@@ -48,7 +48,7 @@ Unless you're a morning person (assuming your surgery is scheduled for early in 
 
 The surgeon asked me if I'd prefer to have him shave my whole head or just the necessary part. I was still conscious enough to think about how it would be an endless struggle to have one part of my hair growing back at a different length than the rest of it and how it might never be an even length again, unless it was all shaved off anyway. So I decided to have it all shaved; I think the surgeon agreed. 
 
-Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then anesthetized for a period of time while the catheter was inserted and my skull was opened. The surgeon said that patients do sometimes hear a saw-like sound, but I didn't.
+Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then anesthetized for a period of time while the catheter was inserted and my skull was opened. The surgeon said that patients do sometimes recall a saw-like sound after the surgery, but I don't.
 
 ## Waking Up
 
