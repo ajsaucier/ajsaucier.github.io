@@ -44,7 +44,7 @@ Overall - as obvious as this is to say - just don't stress out about it. Feeling
 
 ## Day Of
 
-Unless you're a morning person (assuming your surgery is scheduled for early in the morning), you'll probably be too tired to worry too much about the surgery coming up. The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After you say bye to whoever walked with you into the pre-op area, you'll be wheeled into the operating room.
+The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After you say bye to whoever walked with you into the pre-op area, you'll be wheeled into the operating room.
 
 The surgeon asked me if I'd prefer to have him shave my whole head or just the necessary part. I was still conscious enough to think about how it would be an endless struggle to have one part of my hair growing back at a different length than the rest of it and how it might never be an even length again, unless it was all shaved off anyway. So I decided to have it all shaved; I think the surgeon agreed. 
 
