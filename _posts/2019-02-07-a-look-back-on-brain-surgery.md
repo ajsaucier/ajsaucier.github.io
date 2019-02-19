@@ -22,7 +22,7 @@ By the time six months went by and seizures were still happening - even though t
 
 > Instead of living with the fear that seizures could keep happening and potentially cause brain damage - and with the benefit of its location making surgery possible - it seemed like a no-brainer.
 
-When I first started discussing it with the surgeon - a brilliant guy who was somehow able to bring his intelligence down a few pegs to make me understand this stuff - I was given a couple options. Because the angioma lived on an accessible part of my brain that controlled language processing (the left temporal lobe), I would need to be conscious while parts of the procedure happened so I could show that I still functioned and he wouldn’t be removing the important bits. He’d be mapping out my brain in real time.
+When I first started discussing it with the surgeon I was given a couple options. Because the angioma lived on an accessible part of my brain that controlled language processing (the left temporal lobe), I would need to be conscious while parts of the procedure happened so I could show that I still functioned and he wouldn’t be removing the important bits. He’d be mapping out my brain in real time.
 
 The other option allows for the patient to be asleep during the whole procedure, but the surgery would need to take place in two segments a few days apart. It would be the better option for someone who doesn't want to be awake at all with their skull opened, but the risk of infection would be higher. For that reason, being awake during the surgery seemed like the way to go.
 
@@ -30,7 +30,7 @@ The other option allows for the patient to be asleep during the whole procedure,
 
 Angioma Alliance has a great [article outlining every step in the surgery process](http://angioma.org/pages.aspx?content=77&id=67), from preparing your finances and family right up to what to do in the operating room. It's definitely worth it to read through this.
 
-The most important thing I can recommend is to not think too much about it. As a person who almost passes out just thinking about getting blood drawn, it really helped me to keep it at a good distance. 
+The most important thing I can recommend is to not think too much about it. Take care of all the planning you need to do, then just stop thinking about it. As a person who almost passes out just thinking about getting blood drawn, it really helped me to keep it at a good distance. 
 
 > Try not to talk about it every day with family and friends. That helped me see it as just a regular medical procedure and not something to flip out about when the day finally came.
 
