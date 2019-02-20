@@ -48,7 +48,7 @@ The process really starts when you're laying down with the stylish gown and gett
 
 The surgeon asked me if I'd prefer to have him shave my whole head or just the necessary part. I was still conscious enough to think about how it would be an endless struggle to have one part of my hair growing back at a different length than the rest of it and how it might never be an even length again, unless it was all shaved off anyway. So I decided to have it all shaved; I think the surgeon agreed. 
 
-Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then anesthetized for a period of time while the catheter was inserted and my skull was opened. The surgeon said that patients do sometimes recall a saw-like sound after the surgery, but I don't.
+Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then anesthetized for a period of time while the catheter was inserted and my skull was opened. The surgeon said that patients do sometimes recall a saw-like sound after the surgery, but I didn't.
 
 ## Waking Up
 
@@ -62,9 +62,9 @@ After that, I was put back under and never woke up again. Just kidding. I'm aliv
 
 The next thing I remember is being in the Intensive Care Unit (ICU) and hating the fact that I had a catheter. There was also a helmet of bandages on my head with a drain on the top coming from a hole that drained blood and tissue fluids. That was unexpected and a little gross to think about, but only stayed on for a couple days. I was also told that I was demanding to have the tube in the artery of my wrist removed before I was even fully awake; I don't remember doing that, but it sounds like something I'd do so I'll take my wife's word for it.
 
-Steroids were given through an IV every 30 minutes to reduce any swelling or pressure around the brain. That was the hardest and worst part of the first night after surgery. Sleeping was almost impossible, since the nurses needed to wake me up throughout the night to give me those steroids. 
+Steroids were given through an IV every 30 minutes to reduce any swelling or pressure around the brain. That was the hardest and worst part of the first night after surgery. Sleeping was almost impossible, since the nurses needed to wake me up throughout the night to give me those steroids through an IV. 
 
-Speech and concentration were difficult at that point, but that's to be expected. I was able to walk around slowly and carefully with the help of a ICU nurse. 
+Speech and concentration were a little slow early on, but that's to be expected. I was able to walk around carefully with the help of a ICU nurse. 
 
 > While in the ICU, keep in mind that you likely won't be there for a long time. It might be difficult to handle the constant attention and injections, but you do get the benefit of a guaranteed private room.
 
@@ -72,19 +72,19 @@ After only two days and one night in the ICU - and sponge cake for every meal - 
 
 My greatest memory from the days after surgery was the surgeon paying me a surprise visit in the recovery room and giving me the OK to head home. It meant a lot and I'll always remember that part the most.
 
-Once the head dressing and drain was removed, all that was left was a bald head with a little stitched-together hole and a scar that looked like a big fish hook held together by about 40 staples.
+Once the head dressing and drain was removed shortly before leaving and a nurse helped wash my head, all that was left was a little stitched-up hole and a scar that looked like a big fish hook held together by about 40 staples.
 
 ## Back Home
 
 I depended on my wife for weeks after getting home to help wash my head with baby shampoo and dry it entirely. It's _really_ important that you make sure it's completely dry. I also wore a nurse bouffant cap every day and night for a couple weeks after getting home, just to be really sure that nothing got anywhere near that scar or the drain hole. I was extremely cautious to keep it from getting infected, to the point of paranoia. 
 
-> Just be very careful the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it; don't get it sunburnt; don't let your dog lick it; just keep it safe, clean and dry.
+> Just be very careful the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; don't expose it to sun for long; just keep it safe, clean and dry.
 
-Strange things will happen. The side of your head with the scar on it will feel numb for a while; it was about six months for me. You might feel and hear little crackles and pops inside your head while the bone seals itself back together. That side will also swell and bruise a few days after the surgery. 
+Strange things will happen. The side of your head with the scar will feel numb for a while; it was about six months for me before I could feel that side. You might feel and hear little crackles and pops inside your head while the bone seals itself back together. That side will also swell and bruise a few days after the surgery. 
 
-I wouldn't recommend getting a haircut before at least a few months after you get home, especially if you're a guy who likes to get it cut close to your head. One comb swipe over the wrong area can rip a scab right off, and that's not fun. Believe me. I was lucky enough to have a barber who wore sanitary rubber gloves while touching my head. While probably not necessary, it gave me a little extra comfort.
+I wouldn't recommend getting a haircut before at least a few months after you get home, especially if you're a person who likes to get it shaved close to your head. One comb swipe over the wrong area can rip a scab right off, which happened to me, but luckily it happened after the scar was already healed. I was lucky enough to have a barber who wore sanitary rubber gloves while touching my head. While probably not necessary, it gave me a little extra comfort.
 
-It took three weeks for me to feel well enough to go back to work. I still wore a winter hat everyday so the scar and drain hole were protected. Identifying the names of objects and people still took a little longer than normal, but it slowly improved and recovered. 
+It took about three weeks for me to feel well enough to go back to work. I still wore a winter hat everyday so the scar and drain hole were protected. Identifying the names of objects and people still took a little longer than normal, but it slowly improved and recovered. 
 
 > It'll definitely take time, maybe longer than you expect, to feel fully like yourself again.
 
