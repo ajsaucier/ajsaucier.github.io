@@ -14,7 +14,7 @@ description: >-
 * [Waking Up](#waking-up)
 * [Days After](#days-after)
 * [Back Home](#back-home)
-* [A Year Later and Summary](#a-year-later-and-summary)
+* [A Year Later](#a-year-later)
 
 It’s been almost exactly a year since getting a cavernous angioma removed in awake craniotomy. Over 12 months almost all the scabs are gone, but the scar is still there and always admired by barbers. I think it might be worth sharing the experience with others planning for it.
 
@@ -62,7 +62,7 @@ After that, I was put back under and never woke up again. Just kidding. I'm aliv
 
 The next thing I remember is being in the Intensive Care Unit (ICU) and hating the fact that I had a catheter. There was also a helmet of bandages on my head with a drain on the top coming from a hole that drained blood and tissue fluids. That was unexpected and a little gross to think about, but only stayed on for a couple days. I was also told that I was demanding to have the tube in the artery of my wrist removed before I was even fully awake; I don't remember doing that, but it sounds like something I'd do so I'll take my wife's word for it.
 
-Steroids were given through an IV every 30 minutes to reduce any swelling or pressure around the brain. That was the hardest and worst part of the first night after surgery. Sleeping was almost impossible, since the nurses needed to wake me up throughout the night to give me those steroids through an IV. 
+Steroids were given through an IV every few hours to reduce any swelling or pressure around the brain. That was the hardest and worst part of the first night after surgery. Sleeping was almost impossible, since the nurses needed to wake me up throughout the night to give me those steroids through an IV. 
 
 Speech and concentration were a little slow early on, but that's to be expected. I was able to walk around carefully with the help of a ICU nurse. 
 
@@ -86,15 +86,8 @@ I wouldn't recommend getting a haircut before at least a few months after you ge
 
 It took about three weeks for me to feel well enough to go back to work. I still wore a winter hat everyday so the scar and drain hole were protected. Identifying the names of objects and people still took a little longer than normal, but it slowly improved and recovered. 
 
-> It'll definitely take time, maybe longer than you expect, to feel fully like yourself again.
+> It definitely took time for me to correctly name even basic objects like blankets and pillows. The example my surgeon used was a pen clip, since he happened to have one in his pocket.
 
-## A Year Later and Summary
+## A Year Later
 
 Now here it is, about a year and one month after the surgery. I still have scabs in certain areas, mostly behind my left ear. When I raise my eyebrows I can still feel a little stretch of the new skin. I wonder if that'll ever go away. But I can think, understand, read and learn better than I could since the whole ordeal started more than two years ago.
-
-To summarize this whole thing, here's the most important points:
-
-* If you're preparing for one, read [Angioma Alliance's Preparing for Surgery post](http://angioma.org/pages.aspx?content=77&id=67)
-* Don't let the thought of it consume you
-* Be prepared for a not-so-great experience in the recovery process, both in and out of the hospital
-* Be careful to not get the scar and drain hole infected for a while after surgery
