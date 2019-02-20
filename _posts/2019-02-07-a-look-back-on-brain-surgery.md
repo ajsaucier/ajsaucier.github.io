@@ -80,7 +80,7 @@ I depended on my wife for weeks after getting home to help wash my head with bab
 
 > Just be very careful the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; don't expose it to sun for long; just keep it safe, clean and dry.
 
-Strange things will happen. The side of your head with the scar will feel numb for a while; it was about six months for me before I could feel that side. You might feel and hear little crackles and pops inside your head while the bone seals itself back together. That side will also swell and bruise a few days after the surgery. 
+Strange things will happen after your surgery. The side of your head with the scar will feel numb for a while; it was about six months for me before I could feel that side. You might feel and hear little crackles and pops inside your head while the bone seals itself back together. That side will also swell and bruise a few days after the surgery. 
 
 I wouldn't recommend getting a haircut before at least a few months after you get home, especially if you're a person who likes to get it shaved close to your head. One comb swipe over the wrong area can rip a scab right off, which happened to me, but luckily it happened after the scar was already healed. I was lucky enough to have a barber who wore sanitary rubber gloves while touching my head. While probably not necessary, it gave me a little extra comfort.
 
