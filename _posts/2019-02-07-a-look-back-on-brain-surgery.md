@@ -33,7 +33,7 @@ The surgeon and his assistant gave all the details about things like washing my 
 
 ## Day Of
 
-The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After you say bye to whoever walked with you into the pre-op area, you'll be wheeled into the operating room.
+The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After I said bye to my wife and parents in the pre-op area, I was wheeled into the operating room.
 
 The surgeon asked me if I'd prefer to have him shave my whole head or just the necessary part. I was still conscious enough to think about how it would be an endless struggle to have one part of my hair growing back at a different length than the rest of it and how it might never be an even length again, unless it was all shaved off anyway. So I decided to have it all shaved; I think the surgeon agreed. 
 
