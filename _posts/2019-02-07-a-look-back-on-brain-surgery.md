@@ -15,6 +15,7 @@ description: >-
 * [Days After](#days-after)
 * [Back Home](#back-home)
 * [A Year Later](#a-year-later)
+* [Advice](#advice)
 
 It’s been almost exactly a year since getting a cavernous angioma removed in awake craniotomy. Over 12 months almost all the scabs are gone, but the scar is still there and always admired by barbers. I think it might be worth sharing the experience with others planning for it.
 
@@ -26,21 +27,9 @@ When I first started discussing it with the surgeon I was given a couple options
 
 The other option allows for the patient to be asleep during the whole procedure, but the surgery would need to take place in two segments a few days apart. It would be the better option for someone who doesn't want to be awake at all with their skull opened, but the risk of infection would be higher. For that reason, being awake during the surgery seemed like the way to go.
 
-## Preparation
-
-Angioma Alliance has a great [article outlining every step in the surgery process](http://angioma.org/pages.aspx?content=77&id=67), from preparing your finances and family right up to what to do in the operating room. It's definitely worth it to read through this.
-
-The most important thing I can recommend is to not think too much about it. Take care of all the planning you need - like traveling, health insurance, signing a living will (if you choose to) - then just stop thinking about it. As a person who almost passes out just thinking about getting blood drawn, it really helped me to keep it at a good distance. 
-
-> Try not to talk about it every day with family and friends. That helped me see it as just a regular medical procedure and not something to flip out about when the day finally came.
-
 ## Day Before
 
-Your surgeon and his/her assistant will give you all the details about things like washing your hair and fasting the night before the surgery. I remember the anti-bacterial shampoo I used for two nights before the surgery (Hibiclens) feeling like pouring rubbing alcohol on my entire body.
-
-> It's a good idea to stay in a hotel close to the hospital, if possible. You'll want to avoid the stress of not being able to get to the hospital in time. 
-
-Overall - as obvious as this is to say - just don't stress out about it. Feeling a little anxious is fine, but have confidence in your surgeon and think about how cool it'll be when you get to take a ton of photos of your big scar. Play a video game or solve some puzzles or do anything else that requires a lot of distraction and concentration the night before, and of course, sleep.
+The surgeon and his assistant gave all the details about things like washing my hair and fasting the night before the surgery. I remember the anti-bacterial shampoo I used for two nights before the surgery (Hibiclens) feeling like pouring rubbing alcohol on my entire body.
 
 ## Day Of
 
@@ -48,7 +37,7 @@ The process really starts when you're laying down with the stylish gown and gett
 
 The surgeon asked me if I'd prefer to have him shave my whole head or just the necessary part. I was still conscious enough to think about how it would be an endless struggle to have one part of my hair growing back at a different length than the rest of it and how it might never be an even length again, unless it was all shaved off anyway. So I decided to have it all shaved; I think the surgeon agreed. 
 
-Before the haircut (and the rest of the surgery) I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then anesthetized for a period of time while the catheter was inserted and my skull was opened. The surgeon said that patients do sometimes recall a saw-like sound after the surgery, but I didn't.
+Before the haircut I was laid down on the surgical bed and talked to by the anesthetist. I'm pretty sure I was turned onto my right side and started having a conversation with the assistant who was there with me the whole time. I was then anesthetized for a period of time while the catheter was inserted and hair cut, skull opened. The surgeon said that patients do sometimes recall a saw-like sound after the surgery, but I didn't.
 
 ## Waking Up
 
@@ -66,9 +55,9 @@ Steroids were given through an IV every few hours to reduce any swelling or pres
 
 Speech and concentration were a little slow early on, but that's to be expected. I was able to walk around carefully with the help of a ICU nurse. 
 
-> While in the ICU, keep in mind that you likely won't be there for a long time. It might be difficult to handle the constant attention and injections, but you do get the benefit of a guaranteed private room.
+It was fairly difficult to handle the constant attention and injections, but I did get the benefit of a guaranteed private room.
 
-After only two days and one night in the ICU - and sponge cake for every meal - I was moved to a regular room for another day and night. Neck pain was the biggest problem, and seemingly a common one.
+After only two days and one night in the ICU - and sponge cake for every meal - I was moved to a regular room for another day and night. Neck pain was the biggest problem, and seemingly a common one for others.
 
 My greatest memory from the days after surgery was the surgeon paying me a surprise visit in the recovery room and giving me the OK to head home. It meant a lot and I'll always remember that part the most.
 
@@ -76,9 +65,7 @@ Once the head dressing and drain was removed shortly before leaving and a nurse 
 
 ## Back Home
 
-I depended on my wife for weeks after getting home to help wash my head with baby shampoo and dry it entirely. It's _really_ important that you make sure it's completely dry. I also wore a nurse bouffant cap every day and night for a couple weeks after getting home, just to be really sure that nothing got anywhere near that scar or the drain hole. I was extremely cautious to keep it from getting infected, to the point of paranoia. 
-
-> Just be very careful the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; don't expose it to sun for long; just keep it safe, clean and dry.
+I depended on my wife for weeks after getting home to help wash my head with baby shampoo and dry it entirely. It's _really_ important that you make sure it's completely dry. I also wore a nurse bouffant cap every day and night for a couple weeks after getting home, just to be really sure that nothing got anywhere near that scar or the drain hole. I was extremely cautious to keep it from getting infected, to the point of paranoia.
 
 Strange things will happen after your surgery. The side of your head with the scar will feel numb for a while; it was about six months for me before I could feel that side. You might feel and hear little crackles and pops inside your head while the bone seals itself back together. That side will also swell and bruise a few days after the surgery. 
 
@@ -86,8 +73,24 @@ I wouldn't recommend getting a haircut before at least a few months after you ge
 
 It took about three weeks for me to feel well enough to go back to work. I still wore a winter hat everyday so the scar and drain hole were protected. Identifying the names of objects and people still took a little longer than normal, but it slowly improved and recovered. 
 
-> It definitely took time for me to correctly name even basic objects like blankets and pillows. The example my surgeon used was a pen clip, since he happened to have one in his pocket.
+> It definitely took time for me to correctly name even basic objects like blankets and pillows.
 
 ## A Year Later
 
 Now here it is, about a year and one month after the surgery. I still have scabs in certain areas, mostly behind my left ear. When I raise my eyebrows I can still feel a little stretch of the new skin. I wonder if that'll ever go away. But I can think, understand, read and learn better than I could since the whole ordeal started more than two years ago.
+
+## Advice
+
+In case you're reading this and preparing for a surgery yourself, here are a few  tips I can offer.
+
+### Preparation
+
+Angioma Alliance has a great [article outlining every step in the surgery process](http://angioma.org/pages.aspx?content=77&id=67), from preparing your finances and family right up to what to do in the operating room. It's definitely worth it to read through this if you're preparing for a surgery.
+
+It's a good idea to stay in a hotel close to the hospital the day before the surgery, if possible. You'll want to avoid the stress of not being able to get to the hospital in time. 
+
+Overall - as obvious as this is to say - just don't stress out about it. Feeling a little anxious is fine, but have confidence in your surgeon and think about how cool it'll be when you get to take a ton of photos of your big scar. Play a video game or solve some puzzles or do anything else that requires a lot of distraction and concentration the night before, and of course, sleep.
+
+### Recovery
+
+Just be very careful that the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; don't expose it to sun for long; just keep it safe, clean and dry.
