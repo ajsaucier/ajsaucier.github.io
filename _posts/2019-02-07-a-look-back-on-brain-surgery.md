@@ -45,7 +45,7 @@ At some point I was brought back to consciousness. The first thing I remember is
 
 The friendly surgical assistant was sitting in the same spot in front me with some drawings. He started asking me to identify what they were, since the angioma was affecting that part of my brain. There were many, but the only one I can really remember is the house. I was able to identify them until at some point I just couldn't. At those points, all I could do was sort of groan and space out. Then I'd come back to reality and he'd ask me again. I don't know how many times that went or how long it lasted. As far as my basic understanding of brain surgery goes, I think that was when the surgeon was mapping the areas of my brain that he could safely remove or not, based on where he was sending electrical signals.
 
-After that, I was put back under and never woke up again. Just kidding. I'm alive and writing this now.
+After that, I was put back under and never woke up again. Just kidding. I woke up about 8 hours later.
 
 ## Days After
 
@@ -91,6 +91,6 @@ Overall - as obvious as this is to say - just don't stress out about it. Feeling
 
 ### Recovery
 
-Just be very careful that the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; don't expose it to sun for long; just keep it safe, clean and dry.
+Just be very careful that the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; wear a baseball cap so you don't expose it to sun for long; just keep it safe, clean and dry.
 
 I wouldn't recommend getting a haircut before at least a few months after you get home, especially if you're a person who likes to get it shaved close to your head. One comb swipe over the wrong area can rip a scab right off, which happened to me, but luckily it happened after the scar was already healed. I was lucky enough to have a barber who wore sanitary rubber gloves while touching my head. While probably not necessary, it gave me a little extra comfort.
