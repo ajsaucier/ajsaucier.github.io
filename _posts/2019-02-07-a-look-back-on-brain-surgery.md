@@ -25,7 +25,7 @@ By the time six months went by and seizures were still happening - even though t
 
 When I first started discussing it with the surgeon I was given a couple options. Because the angioma lived on an accessible part of my brain that controlled language processing (the left temporal lobe), I would need to be conscious while parts of the procedure happened so I could show that I still functioned and he wouldn’t be removing the important bits. He’d be mapping out my brain in real time.
 
-The other option allows for the patient to be asleep during the whole procedure, but the surgery would need to take place in two segments a few days apart. It would be the better option for someone who doesn't want to be awake at all with their skull opened, but the risk of infection would be higher. For that reason, being awake during the surgery seemed like the way to go.
+The second option allows for the patient to be asleep during the whole procedure, but the surgery would need to take place in two segments a few days apart. It would be the better option for someone who doesn't want to be awake at all with their skull opened, but the risk of infection would be higher. For that reason, being awake during the surgery seemed like the way to go.
 
 ## Day Before
 
@@ -33,7 +33,7 @@ The surgeon and his assistant gave all the details about things like washing my 
 
 ## Day Of
 
-The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After you say bye to whoever walked with you into the pre-op area, you'll be wheeled into the operating room.
+The process really starts when you're laying down with the stylish gown and getting the IVs stuck in your hand and arms. After I said bye to my wife and parents in the pre-op area, I was wheeled into the operating room.
 
 The surgeon asked me if I'd prefer to have him shave my whole head or just the necessary part. I was still conscious enough to think about how it would be an endless struggle to have one part of my hair growing back at a different length than the rest of it and how it might never be an even length again, unless it was all shaved off anyway. So I decided to have it all shaved; I think the surgeon agreed. 
 
@@ -43,9 +43,9 @@ Before the haircut I was laid down on the surgical bed and talked to by the anes
 
 At some point I was brought back to consciousness. The first thing I remember is feeling a lot of weight on my head, like a really heavy blanket  pushing it down into a pillow. Not painful though, just a little uncomfortable. I hear weighted blankets are a popular millennial thing, but maybe not so much in this situation.
 
-The friendly surgical assistant was sitting in the same spot in front me with some drawings. He started asking me to identify what they were. There were many, but the only one I can really remember is the house. I was able to identify them until at some point I just couldn't. At those points, all I could do was sort of groan and space out. Then I'd come back to reality and he'd ask me again. I don't know how many times that went or how long it lasted. As far as my basic understanding of brain surgery goes, I think that was when the surgeon was mapping the areas of my brain that he could safely remove or not, based on where he was sending electrical signals.
+The friendly surgical assistant was sitting in the same spot in front me with some drawings. He started asking me to identify what they were, since the angioma was affecting that part of my brain. There were many, but the only one I can really remember is the house. I was able to identify them until at some point I just couldn't. At those points, all I could do was sort of groan and space out. Then I'd come back to reality and he'd ask me again. I don't know how many times that went or how long it lasted. As far as my basic understanding of brain surgery goes, I think that was when the surgeon was mapping the areas of my brain that he could safely remove or not, based on where he was sending electrical signals.
 
-After that, I was put back under and never woke up again. Just kidding. I'm alive and writing this now.
+After that, I was put back under and never woke up again. Just kidding. I woke up about 8 hours later.
 
 ## Days After
 
@@ -85,12 +85,14 @@ In case you're reading this and preparing for a surgery yourself, here are a few
 
 Angioma Alliance has a great [article outlining every step in the surgery process](http://angioma.org/pages.aspx?content=77&id=67), from preparing your finances and family right up to what to do in the operating room. It's definitely worth it to read through this if you're preparing for a surgery.
 
+I didn't go out in public for weeks before the surgery, thinking it would avoid any risk of getting sick and delaying the surgery. That might have been over the top, but do whatever you can to stay healthy in the days leading up to it.
+
 It's a good idea to stay in a hotel close to the hospital the day before the surgery, if possible. You'll want to avoid the stress of not being able to get to the hospital in time. 
 
 Overall - as obvious as this is to say - just don't stress out about it. Feeling a little anxious is fine, but have confidence in your surgeon and think about how cool it'll be when you get to take a ton of photos of your big scar. Play a video game or solve some puzzles or do anything else that requires a lot of distraction and concentration the night before, and of course, sleep.
 
 ### Recovery
 
-Just be very careful that the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; don't expose it to sun for long; just keep it safe, clean and dry.
+Just be very careful that the drain hole and scar don't touch anything, and don't touch it with your fingers. Don't scratch it or touch it even when it's itchy; wear a baseball cap so you don't expose it to sun for long; just keep it safe, clean and dry.
 
 I wouldn't recommend getting a haircut before at least a few months after you get home, especially if you're a person who likes to get it shaved close to your head. One comb swipe over the wrong area can rip a scab right off, which happened to me, but luckily it happened after the scar was already healed. I was lucky enough to have a barber who wore sanitary rubber gloves while touching my head. While probably not necessary, it gave me a little extra comfort.
