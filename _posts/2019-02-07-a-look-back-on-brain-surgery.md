@@ -25,7 +25,7 @@ By the time six months went by and seizures were still happening - even though t
 
 When I first started discussing it with the surgeon I was given a couple options. Because the angioma lived on an accessible part of my brain that controlled language processing (the left temporal lobe), I would need to be conscious while parts of the procedure happened so I could show that I still functioned and he wouldn’t be removing the important bits. He’d be mapping out my brain in real time.
 
-The other option allows for the patient to be asleep during the whole procedure, but the surgery would need to take place in two segments a few days apart. It would be the better option for someone who doesn't want to be awake at all with their skull opened, but the risk of infection would be higher. For that reason, being awake during the surgery seemed like the way to go.
+The second option allows for the patient to be asleep during the whole procedure, but the surgery would need to take place in two segments a few days apart. It would be the better option for someone who doesn't want to be awake at all with their skull opened, but the risk of infection would be higher. For that reason, being awake during the surgery seemed like the way to go.
 
 ## Day Before
 
