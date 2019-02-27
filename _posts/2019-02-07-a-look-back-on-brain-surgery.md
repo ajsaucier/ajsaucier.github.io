@@ -85,6 +85,8 @@ In case you're reading this and preparing for a surgery yourself, here are a few
 
 Angioma Alliance has a great [article outlining every step in the surgery process](http://angioma.org/pages.aspx?content=77&id=67), from preparing your finances and family right up to what to do in the operating room. It's definitely worth it to read through this if you're preparing for a surgery.
 
+I didn't go out in public for weeks before the surgery, thinking it would avoid any risk of getting sick and delaying the surgery. That might have been over the top, but do whatever you can to stay healthy in the days leading up to it.
+
 It's a good idea to stay in a hotel close to the hospital the day before the surgery, if possible. You'll want to avoid the stress of not being able to get to the hospital in time. 
 
 Overall - as obvious as this is to say - just don't stress out about it. Feeling a little anxious is fine, but have confidence in your surgeon and think about how cool it'll be when you get to take a ton of photos of your big scar. Play a video game or solve some puzzles or do anything else that requires a lot of distraction and concentration the night before, and of course, sleep.
