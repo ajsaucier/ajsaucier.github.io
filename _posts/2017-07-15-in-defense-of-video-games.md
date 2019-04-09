@@ -2,9 +2,10 @@
 layout: post
 title: In Defense of Video Games
 categories: blog
-description: A look at the positive aspects of video games in healthcare and mental health based on recent articles and past research.
+description: >-
+  A look at the positive aspects of video games in healthcare and mental health
+  based on recent articles and past research.
 ---
-
 The New York Times recently published an [article about how video games are causing younger men to work less](https://www.nytimes.com/2017/07/03/upshot/why-some-men-dont-work-video-games-have-gotten-really-good.html).
 
  Sure, an excess of just about anything is bad. No argument there, especially when it takes away from time that would be better spent working, contributing to society, and so on. But why focus on only video games taking young men aged 21-30 away from work when time spent watching TV is five times more than time spent playing games (17.1 hours watching TV per week versus 3.4 hours playing video games), according to this same study?
@@ -19,7 +20,7 @@ In many ways modern video games are the ultimate form of entertainment, combinin
 
 I wrote a researched paper in 2012 that highlighted the current uses of video games - specifically motion controlled ones - in the healthcare field. At the time, the Wii was still fairly popular and its motion controls were being used widely for physical therapy. This wasn’t the first foray into using games to aid recovery, education and even just serving as distraction for healthcare patients.
 
-According to an article in the Journal of Consulting and Clinical Psychology, young patients undergoing chemotherapy in 1987 were instructed to play a video game for 10 minutes and  showed significant decreases in reported nausea symptoms when compared to children who were instructed to play with non-digital books or toys. More examples abound, including patients  with spinal cord injury using their wheelchairs as virtual controllers for racing games and increasing their hand-eye coordination and muscle control and games specifically developed to teach children how to manage their insulin levels and take their medication at the right times.
+According to an [article in the Journal of Consulting and Clinical Psychology](#references-and-further-reading), young patients undergoing chemotherapy in 1987 were instructed to play a video game for 10 minutes and  showed significant decreases in reported nausea symptoms when compared to children who were instructed to play with non-digital books or toys. More examples abound, including patients  with spinal cord injury using their wheelchairs as virtual controllers for racing games and increasing their hand-eye coordination and muscle control and games specifically developed to teach children how to manage their insulin levels and take their medication at the right times.
 
 Technology advances since then have made way for games to be more accessible for everyone, exemplified by [students using virtual reality to make games more accessible for the visually impaired](http://leaderpost.com/news/local-news/students-create-virtual-reality-game-for-the-visually-impaired). Just like anything else, video games should be available to everyone regardless of their physical and mental ability. It's encouraging to see that [designers and developers are trying harder to include inclusivity in their process](http://www.gamasutra.com/view/news/299850/7_examples_of_accessibility_design_that_developers_should_study.php) from the beginning, instead of adding patches later.
 
@@ -28,3 +29,16 @@ Video games are a form of entertainment that can obviously have major benefits, 
 A recent [article about a boy who identified with a video game character](https://www.wired.com/story/the-sleeper-autistic-hero-transforming-video-games) really struck a chord. It describes how an autistic boy and his brother use the hugely popular game Overwatch to connect with each other, and how the boy - who happens to be autistic - connects with a major character in the game who also has autism. He loves that the character is part of a team of heroes and her contributions are just as valuable as everyone else’s, and he reaches out to the game’s director to express his gratitude. Definitely a recommended read.
 
 And sometimes, people just need to escape from the real world. It’s a simple but powerful truth. Speaking from personal experience, playing video games can provide a uniquely powerful distraction from health problems and anything else that can overwhelm when given too much focus. Playing games isn’t a permanent solution or a vital contribution to society, but just like any form of entertainment used in healthy moderation, they can make people feel a little better for a little while.
+
+## References and Further Reading
+
+* Redd, W. H., Jacobsen, P. B., DieTrill, M., Dermatis, H., McEvoy, M., & Holland, J. C. (1987). Cognitive–attentional 
+  distraction in the control of conditioned nausea in pediatric cancer patients receiving chemotherapy. Journal of 
+  Consulting and Clinical Psychology, 55, 391–395
+* Ceranoglu, T. A. (2010). Video games in psychotherapy.Review of General Psychology, 14(2), 141-146. Retrieved from <http://www.apa.org/pubs/journals/releases/gpr-14-2-141.pdf>
+* Kato, P. M. (2010). Video games in health care: Closing the gap. Review of General Psychology, 14(2), 113-121. 
+  Retrieved from [http://www.apa.org/pubs/journals/releases/gpr-14-2-113.pdf](http://www.apa.org/pubs/journals/releases/gpr-14-2-141.pdf)
+* Greitemeyer, T., & Osswald, S. (2011). Playing prosocial video games increases the accessibility of prosocial 
+  thoughts. Journal of Social Psychology, 151(2), 121-128. Retrieved from [http://0-](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
+  [web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1-](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
+  [8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ==](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
