@@ -35,10 +35,14 @@ And sometimes, people just need to escape from the real world. It’s a simple b
 * Redd, W. H., Jacobsen, P. B., DieTrill, M., Dermatis, H., McEvoy, M., & Holland, J. C. (1987). Cognitive–attentional 
   distraction in the control of conditioned nausea in pediatric cancer patients receiving chemotherapy. Journal of 
   Consulting and Clinical Psychology, 55, 391–395
-* Ceranoglu, T. A. (2010). Video games in psychotherapy.Review of General Psychology, 14(2), 141-146. Retrieved from <http://www.apa.org/pubs/journals/releases/gpr-14-2-141.pdf>
+* Ceranoglu, T. A. (2010). Video games in psychotherapy. Review of General Psychology, 14(2), 141-146. Retrieved 
+  from <http://www.apa.org/pubs/journals/releases/gpr-14-2-141.pdf>
 * Kato, P. M. (2010). Video games in health care: Closing the gap. Review of General Psychology, 14(2), 113-121. 
   Retrieved from [http://www.apa.org/pubs/journals/releases/gpr-14-2-113.pdf](http://www.apa.org/pubs/journals/releases/gpr-14-2-141.pdf)
 * Greitemeyer, T., & Osswald, S. (2011). Playing prosocial video games increases the accessibility of prosocial 
-  thoughts. Journal of Social Psychology, 151(2), 121-128. Retrieved from [http://0-](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
-  [web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1-](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
-  [8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ==](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
+    thoughts. Journal of Social Psychology, 151(2), 121-128. Retrieved from [http://0-
+  ](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
+    [web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1-
+  ](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
+    [8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ==
+  ](<http://0- web.ebscohost.com.www.consuls.org/ehost/detail?sid=f9c74264-db3b-4282-86a1- 8dba1ee99766@sessionmgr11&vid=5&hid=11&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ== >)
