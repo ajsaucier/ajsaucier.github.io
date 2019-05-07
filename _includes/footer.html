@@ -5,11 +5,8 @@
     <h2 class="footer-heading"><a href="{{ "/" | relative_url }}">Homepage</a></h2>
 
     <div class="footer-col-wrapper">
+
       <div class="footer-col footer-col-1">
-
-      </div>
-
-      <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -26,11 +23,20 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-2">
         <p>{{ site.description | escape }}</p>
       </div>
+
+      <div class="footer-col footer-col-3">
+        <button type="button" class="switch-btn" role="switch" aria-checked="false">
+          <span class="switch-btn__text" role="presentation">Turn dark theme on</span>
+          <span class="switch-btn__knob" aria-hidden="true"></span>
+        </button>
+      </div>
+
     </div>
 
   </div>
 
 </footer>
+<script src="{{ "/js/main.js" | relative_url }}"></script>

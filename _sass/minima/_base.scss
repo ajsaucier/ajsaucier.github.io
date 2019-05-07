@@ -225,3 +225,65 @@ pre {
     padding-top: 5px;
   }
 }
+
+// Dark theme button
+body.dark-theme {
+  background: #1a2a2a;
+  color: #eee;
+  & .page-content, & .site-header, & .site-footer, & .switch-btn {
+    background: #1a2a2a;
+    color: #eee;
+    a, .site-title, p, .post-meta, .switch-btn {
+      color: #eee;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    & .site-nav a {
+      color: #222;
+    }
+  }
+}
+.switch-btn {
+  background: #fff;
+  border: 2px solid #2a2a2a;
+  color: black;
+  font: inherit;
+  line-height: 1;
+  padding: .75em 3.75em .75em .5em;
+  position: relative;
+  text-align: left;
+  width: 15em;
+}
+@media screen and (min-width: 601px) {
+  .switch-btn {
+    position: absolute;
+    top: 3.5em;
+    right: 0;
+  }
+}
+.switch-btn:focus {
+  outline: 2px solid #1756a9;
+}
+.switch-btn__knob {
+    background: #fff;
+    border-radius: 1em;
+    border: 1px solid #2a2a2a;
+    bottom: .5em;
+    box-shadow: inset -1.625em 0 0 1px rgba(120, 120, 120, 1);
+    height: 1.5em;
+    margin: auto;
+    position: absolute;
+    right: 1em;
+    top: .5em;
+    transition:
+      border .1s ease-in-out,
+      box-shadow .1s ease-in-out;
+    width: 3em;
+  }
+.switch-btn[aria-checked="true"] {
+  border: 2px solid #eee;
+}
+.switch-btn[aria-checked="true"] .switch-btn__knob {
+    border: 1px solid rgba(0, 2, 120, 1);
+    box-shadow: inset 1.625em 0 0 1px #2196f3;
+  }
