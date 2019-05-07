@@ -12,7 +12,9 @@ One of the most basic but overlooked aspects of web accessibility (including PDF
 
 While reading a biography recently - on a NOOK e-reader, which has no text-to-speech or audiobook functionality (_tisk tisk, Barnes and Noble_) -  I came across the obligatory middle section with images from the subject’s life from childhood onward (it's Cory MacClauchlin's biography of the prodigious yet tragic life of New Orleans author John Kennedy Toole). The images and their captions exemplified an excellent approach to writing `alt` tags - especially this one:
 
-!\[Alt text example describing good practices for using context to describe images]({{ site.url }}/assets/images/alt-text-example.jpg)
+![Alt text example describing good practices for using context to describe images](/assets/images/alt-text-example.jpg)
+
+
 (Credit: Cory MacClauchlin from his book _Butterly in the Typewriter: The Tragic Life of John Kennedy Toole and the Remarkable Story of
 A Confederacy of Dunces_)
 
