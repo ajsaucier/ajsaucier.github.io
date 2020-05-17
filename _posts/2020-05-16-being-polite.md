@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being Polite
+title: Be Polite
 categories: accessibility
 description: WAI-ARIA recommendations for an accessible content slider are being
   followed by the Animal Crossing website.
