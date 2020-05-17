@@ -5,7 +5,7 @@ categories: accessibility
 description: WAI-ARIA recommendations for an accessible content slider are being
   followed by the Animal Crossing website.
 ---
-After finally finding a [WAI-ARIA recommendation for a more accessible content slider](https://www.w3.org/TR/wai-aria-practices/#carousel), I came across one on the [Animal Crossing website](https://www.animal-crossing.com) that happens to use the same technique. 
+After finding a [WAI-ARIA recommendation for a more accessible content slider](https://www.w3.org/TR/wai-aria-practices/#carousel), I came across one on the [Animal Crossing website](https://www.animal-crossing.com) that happens to use the same technique. 
 
 Here's the code snippet from that slider:
 
