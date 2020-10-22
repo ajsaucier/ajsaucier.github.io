@@ -33,7 +33,7 @@ The third-party company that manages these job listings and provides the inacces
 
 So my advice would be this when it comes to embedding something onto your site:
 
-Embed the widget/page/video/whatever it is onto your page and test it for accessibility with automatic tools and manual testing with a keyboard and assistive technology, just like you would test anything else you're working on. If the `<iframe>` is only being used to embed some JavaScript on the page (for some reason) or is purely decorative, it should have an `aria-hidden="true"` attribute on it; if its content is meant to add to the page, try to make sure its heading hierarchy makes sense with the rest of the page.
+Embed the widget/page/video/whatever it is onto your page and test it for accessibility with automatic tools and manual testing with a keyboard and assistive technology, just like you would test anything else you're working on. If the `<iframe>` is only being used to embed some JavaScript on the page (for some reason) or is purely decorative, it should have an `aria-hidden="true"` attribute on it; if its content is meant to add to the page, try to make sure its heading hierarchy makes sense with the rest of the page if you have control of the embedded content.
 
 If it's a simple `<iframe>` that displays content from another accessible website, start off by at least making sure that it has a meaningful and unique `title` attribute that describes what's inside the frame. If it doesn't, you could add the attribute and its value by targeting the `<iframe>` element and using the `setAttribute` function.
 
