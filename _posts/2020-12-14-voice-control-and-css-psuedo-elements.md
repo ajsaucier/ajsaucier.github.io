@@ -17,4 +17,6 @@ In this example, an `<i>` element is used for the right-facing chevron graphic. 
 
 ![A link with the text Go to Newsroom with a right-facing chevron. A tooltip shows above the button with the text Go to Newsroom](assets/images/voice-control.png)
 
+Another similar problem is brought on when adding an icon to a link - maybe from Font Awesome, for example - as a CSS pseudo-element. This might be an easy way to add some decoration to a link, but when its `content` property is something like "\f054", it isn't surprising when it makes no sense to assistive technology. Why should it? Instead of using a pseudo-element, use an SVG with `aria-hidden="true"` applied to it
+
 Instead of adding a pseudo-element inside a link, button or other interactive element, instead use an SVG that can be properly hidden from assistive technologies. Pseudo-elements like FontAwesome icons aren't always understood by assistive technology, so a user won't be able to activate the element when it's part of the accessible name. Here's an example on how to do that without much more effort.
