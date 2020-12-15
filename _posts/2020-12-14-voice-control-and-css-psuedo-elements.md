@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Voice Control and CSS Psuedo-elements
-categories: blog
+categories: accessibility
 description: Pay attention to voice input methods like Voice Control on iOS when
   adding graphical elements like icons to your content
 ---
