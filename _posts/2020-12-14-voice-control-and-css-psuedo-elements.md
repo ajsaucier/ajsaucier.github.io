@@ -3,7 +3,7 @@ layout: post
 title: Voice Control and CSS Psuedo-elements
 categories: blog
 description: Pay attention to voice input methods like Voice Control on iOS when
-  adding graphical elements like icons
+  adding graphical elements like icons to your content
 ---
 iOS and Android both have methods for controlling your entire device with your voice. While screen readers are often the first thought people have when web accessibility is brought up, voice input is another important aspect that can be used by those with motor disabilities or anyone else who would rather use their voice than touch a screen with their dirty digits. 
 
