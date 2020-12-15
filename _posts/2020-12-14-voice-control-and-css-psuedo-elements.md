@@ -11,11 +11,11 @@ It's a simple assistive technology that you can and should try out yourself duri
 
 Once Voice Control is activated and you're on a website, you'll see tooltips that display the names of interactive elements on the page, like links and buttons. You might see the text that's visible in the link or button - in other words, the accessible name - with a funny little question mark inside a square next to it, shown in the screenshot below.
 
-![A link with the text Go to Newsroom with a right-facing chevron. A tooltip shows above the button with the text Go to Newsroom and a question mark inside a square next to it](assets/images/voice-control-question.png)
+![A link with the text Go to Newsroom with a right-facing chevron. A tooltip shows above the button with the text Go to Newsroom and a question mark inside a square next to it](/assets/images/voice-control-question.png)
 
 In this example, an `<i>` element is used for the right-facing chevron graphic. When `aria-hidden="true"` isn't applied to an icon element, Voice Control isn't sure what to to make of it (similar to a screen reader's behavior). It's also part of the accessible name, so if you don't say it, it won't get clicked. If you were to say "Tap go to newsroom", nothing would happen. When `aria-hidden="true"` is added to the element, it's no longer part of the accessible name and saying "Tap go to newsroom" will activate the link. Here's what that same link looks like when the icon is properly hidden from assistive technologies:
 
-![A link with the text Go to Newsroom with a right-facing chevron. A tooltip shows above the button with the text Go to Newsroom](assets/images/voice-control.png)
+![A link with the text Go to Newsroom with a right-facing chevron. A tooltip shows above the button with the text Go to Newsroom](/assets/images/voice-control.png)
 
 A similar problem is brought on when adding an icon to a link - maybe from Font Awesome, for example - as a CSS pseudo-element like a `::before` or `::after`. This might be an easy way to add some decoration to a link, but when its `content` property is something like `"\f054"`, it isn't surprising when it makes no sense to assistive technology. Why should it? Instead of using a pseudo-element, use an SVG with `aria-hidden="true"` applied to it. It can be stylistically identical while making it work as expected with voice input.
 
