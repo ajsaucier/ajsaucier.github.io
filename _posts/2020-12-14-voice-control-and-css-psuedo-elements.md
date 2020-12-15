@@ -13,6 +13,6 @@ Once Voice Control is activated and you're on a website, you'll see tooltips tha
 
 ![A button with the text Go to Newsroom with a right-facing chevron. A tooltip shows above the button with the text Go to Newsroom and a question mark inside a square next to it](assets/images/voice-control-question.png)
 
-In this example, an `<i>` element is used 
+In this example, an `<i>` element is used for the right-facing chevron graphic. When `aria-hidden="true"` isn't applied to an icon element, Voice Control isn't sure what to to make of it. It's also part of the accessible name, so if you don't say it, it won't get clicked. If you were to say "Tap go to newsroom", nothing would happen.
 
 Instead of adding a pseudo-element inside a link, button or other interactive element, instead use an SVG that can be properly hidden from assistive technologies. Pseudo-elements like FontAwesome icons aren't always understood by assistive technology, so a user won't be able to activate the element when it's part of the accessible name. Here's an example on how to do that without much more effort.
