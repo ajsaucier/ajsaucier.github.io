@@ -21,17 +21,14 @@
                   <label for="username">Username (required)</label>
                   <br />
                   <input id="username" type="text" aria-required="true" name="username" />
-                  <br />
-                <p id="username-error" class="error" hidden>Please enter your username</p>
+                  <p id="username-error" class="error" hidden>Please enter your username</p>
                 </p>
                 <p>
                   <label for="password">Password (required)</label>
                   <br />
                   <input id="password" type="password" aria-describedby="password-info" aria-required="true" name="password" pattern="(?=.*[A-Z])(?=.*[a-z])(?=.*\d)" autocomplete="off" />
-                  <br />
-                <p id="password-error" class="error" hidden>Please enter your password in the specified pattern</p>
-                <br />
-                <p id="password-info"><strong>Note:</strong> password must include one capital letter, one lower case letter, and at least one number</p>
+                  <p id="password-error" class="error" hidden>Please enter your password in the specified pattern</p>
+                  <p id="password-info"><strong>Note:</strong> password must include one capital letter, one lower case letter, and at least one number</p>
                 </p>
                 <button type="submit">Log In</button>
               </form>
