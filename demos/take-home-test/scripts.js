@@ -14,6 +14,7 @@ form.addEventListener("submit", function (event) {
   checkPassword(event);
   checkLoginMatch(event)
 
+// Set focus to first field with an error
   if (username.value === "") {
     username.focus();
   } else if (password.value === "") {
@@ -38,10 +39,12 @@ function checkUsername(event) {
   if (username.value === "") {
     usernameError.removeAttribute("hidden");
     username.setAttribute("aria-invalid", "true");
+    username.setAttribute("aria-describedby", "username-error");
     event.preventDefault();
   } else {
     usernameError.setAttribute("hidden", "true");
     username.setAttribute("aria-invalid", "false");
+    username.removeAttribute("aria-describedby");
   }
 }
 
@@ -49,9 +52,11 @@ function checkPassword(event) {
   if (password.value === "") {
     passwordError.removeAttribute("hidden");
     password.setAttribute("aria-invalid", "true");
+    password.setAttribute("aria-describedby", "password-error password-info");
     event.preventDefault();
   } else {
     passwordError.setAttribute("hidden", "true");
     password.setAttribute("aria-invalid", "false");
+    password.setAttribute("aria-describedby", "password-info");
   }
 }
