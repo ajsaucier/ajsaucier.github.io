@@ -32,6 +32,10 @@ main {
     border-radius: 1rem;
 }
 
+form .form-row {
+    margin-bottom: 1rem;
+}
+
 form label {
     font-weight: bold;
 }
@@ -64,6 +68,7 @@ form button {
     color: #fff;
     padding: 1rem 2rem;
     border-radius: 5px;
+    font-size: 1rem;
 }
 
 form button:hover,
@@ -81,9 +86,12 @@ form p {
     background: var(--error-color);
     color: white;
     padding: 0.5rem;
-    margin-top: -1rem;
 }
 
 #login-error {
     color: var(--error-color);
+}
+
+#password-info {
+    margin-top: 1rem;
 }

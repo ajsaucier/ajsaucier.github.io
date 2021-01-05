@@ -13,19 +13,19 @@
             <div class="form-wrapper">
               <h1>Login</h1>
               <form method="POST" action="./success.html" novalidate>
-                <p>
+                <div class="form-row">
                   <label for="username">Username (required)</label>
                   <br />
                   <input id="username" type="text" aria-required="true" name="username" />
                   <p id="username-error" class="error" hidden>Please enter your username</p>
-                </p>
-                <p>
+                </div>
+                <div class="form-row">
                   <label for="password">Password (required)</label>
                   <br />
                   <input id="password" type="password" aria-describedby="password-info" aria-required="true" name="password" pattern="(?=.*[A-Z])(?=.*[a-z])(?=.*\d)" autocomplete="off" />
                   <p id="password-error" class="error" hidden>Please enter your password in the specified pattern</p>
                   <p id="password-info"><strong>Note:</strong> password must include one capital letter, one lower case letter, and at least one number</p>
-                </p>
+                </div>
                 <button type="submit">Log In</button>
               </form>
               <p id="login-error" role="status"></p>
