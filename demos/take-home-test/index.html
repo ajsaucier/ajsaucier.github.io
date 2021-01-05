@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Login</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <main>
+            <div class="form-wrapper">
+              <h1>Login</h1>
+              <form method="POST" action="success.html" novalidate>
+                <p>
+                  <label for="username">Username (required)</label>
+                  <br />
+                  <input id="username" type="text" aria-describedby="username-error" aria-required="true" name="username" />
+                  <br />
+                <p id="username-error" class="error" hidden>Please enter your username</p>
+                </p>
+                <p>
+                  <label for="password">Password (required)</label>
+                  <br />
+                  <input id="password" type="password" aria-describedby="password-error password-info" aria-required="true" name="password" pattern="(?=.*[A-Z])(?=.*[a-z])(?=.*\d)" autocomplete="off" />
+                  <br />
+                <p id="password-error" class="error" hidden>Please enter your password in the specified pattern</p>
+                <br />
+                <p id="password-info"><strong>Note:</strong> password must include one capital letter, one lower case letter, and at least one number</p>
+                </p>
+                <button>Log In</button>
+              </form>
+              <p id="login-error" role="status"></p>
+            </div>
+          </main>
+        
+        <script src="scripts.js" async defer></script>
+    </body>
+</html>

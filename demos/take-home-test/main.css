@@ -1,0 +1,89 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --error-color: #a80000;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    background: #999;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.form-wrapper {
+    padding: 1rem;
+    max-width: 40rem;
+    background: white;
+    border-radius: 1rem;
+}
+
+form label {
+    font-weight: bold;
+}
+
+form input {
+    border-radius: 5px;
+    padding: 0.5rem;
+    width: 100%;
+}
+
+form input:valid {
+    border: 2px solid #000;
+}
+
+form input:invalid {
+    border: 2px solid var(--error-color);
+}
+
+form input:focus {
+    outline: 2px dashed #000;
+}
+
+form input:invalid:focus {
+    outline: 2px dashed var(--error-color);
+}
+
+form button {
+    border: none;
+    background: #000;
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+}
+
+form button:hover,
+form button:focus {
+    background: #fff;
+    color: #000;
+    outline: 3px dashed #000;
+}
+
+form p {
+    margin-top: 0;
+}
+
+.error {
+    background: var(--error-color);
+    color: white;
+    padding: 0.5rem;
+    margin-top: -1rem;
+}
+
+#login-error {
+    color: var(--error-color);
+}
