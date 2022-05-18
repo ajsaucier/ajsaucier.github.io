@@ -25,5 +25,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Update for security issues
-gem "nokogiri", "~> 1.10.8"
+gem "nokogiri", "~> 1.13.5"
 gem "rubyzip", ">= 1.3.0"
