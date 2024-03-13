@@ -154,6 +154,11 @@
 .page-content {
   padding: $spacing-unit 0;
   background: $background-color;
+
+  video {
+    max-width: 100%;
+  }
+  
 }
 
 .page-heading {
@@ -223,10 +228,6 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
-  }
-
-  video {
-    max-width: 100%;
   }
 
   /**
