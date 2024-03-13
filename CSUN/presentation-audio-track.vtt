@@ -1,0 +1,1404 @@
+WEBVTT
+
+00:00:11.000 --> 00:00:15.000
+Hello, and thank you very much for attending my talk today,
+
+00:00:15.000 --> 00:00:19.840
+which is called "Don't Prioritize Color Over Content."
+
+00:00:19.840 --> 00:00:25.040
+My name is Adam Saucier, 
+and I'm a Senior Accessibility Engineer at TPGI.
+
+00:00:25.040 --> 00:00:29.520
+I started in digital accessibility in 2013 
+when I was working as a web developer at an
+
+00:00:29.520 --> 00:00:34.840
+advertising agency, building websites
+for a large health insurance company.
+
+00:00:34.840 --> 00:00:39.820
+I then worked at a community college, 
+managing their website and helping faculty members
+
+00:00:39.820 --> 00:00:47.480
+create accessible course content, 
+things like PDFs, videos, and other content.
+
+00:00:47.480 --> 00:00:51.640
+I myself have a color vision deficiency, 
+which does not have a cure.
+
+00:00:51.640 --> 00:00:56.200
+The colorblind glasses that you might have seen advertised 
+do not work and are similar
+
+00:00:56.200 --> 00:01:02.520
+to accessibility overlays because they actually make the issue worse.
+
+00:01:02.520 --> 00:01:07.700
+I remember being unofficially diagnosed with a color vision deficiency or color blindness
+
+00:01:07.700 --> 00:01:11.840
+by my sister when we were both young, when she would make fun of me
+for picking the wrong color crayon out of the box.
+
+00:01:14.480 --> 00:01:19.120
+This was followed by an official diagnosis some years later when my automatrist said,
+
+00:01:19.120 --> 00:01:22.280
+"Yes, you are very colorblind."
+
+00:01:22.280 --> 00:01:27.280
+There are approximately 350 million colorblind people in the world, give or take, making
+
+00:01:27.280 --> 00:01:32.600
+the issue of a use of color a more impactful one than some might think.
+
+00:01:32.600 --> 00:01:38.080
+The three types of color vision deficiencies are red-green, which is the most common, and
+
+00:01:38.080 --> 00:01:42.400
+where certain shades of green look more red, or you can't even tell red and green apart
+
+00:01:42.400 --> 00:01:47.840
+at all, blue-yellow, where it's difficult or impossible to tell blue and green, purple
+
+00:01:47.840 --> 00:01:54.360
+and red, and yellow and pink apart, and complete color deficiency, where you can't see any
+
+00:01:54.360 --> 00:01:55.760
+colors at all.
+
+00:01:55.760 --> 00:02:00.360
+This one is very rare.
+
+00:02:00.360 --> 00:02:04.920
+On this slide is an example of the color plate test, a very common method of testing for
+
+00:02:04.920 --> 00:02:08.120
+color blindness when you go to an optometrist.
+
+00:02:08.120 --> 00:02:13.060
+It's made up of a large circle, which itself is made up of smaller circles that are a bunch
+
+00:02:13.060 --> 00:02:16.880
+of different colors and different hues of the same color.
+
+00:02:16.880 --> 00:02:22.360
+If you clearly see a number two in this jumble of colors, 
+you might not be colorblind.
+
+00:02:22.360 --> 00:02:25.800
+If you do not see a number, then you might be colorblind.
+
+00:02:25.800 --> 00:02:31.400
+I myself am not an optometrist, clearly, so if you are curious about whether or not you're
+
+00:02:31.400 --> 00:02:37.360
+colorblind, you should go to your eye doctor and have a full test done.
+
+00:02:37.360 --> 00:02:44.640
+Here is a classic angry girlfriend meme, 
+because every presentation needs at least one meme.
+
+00:02:44.640 --> 00:02:49.240
+The girl walking toward the camera has the text "pretty colors" overlaid on her.
+
+00:02:49.240 --> 00:02:54.080
+The boyfriend who looks back longingly at her has the text "many designers" and his
+
+00:02:54.080 --> 00:02:58.040
+upset girlfriend has the text "content."
+
+00:02:58.040 --> 00:03:03.120
+The point here is that many designers think about how colors make something look nice
+
+00:03:03.120 --> 00:03:09.280
+without considering the effect they might have on the content itself.
+
+00:03:09.280 --> 00:03:16.200
+The WCAG Success Criterion 1.4.1 Use of Color is a level A criterion that affects not only
+
+00:03:16.200 --> 00:03:21.480
+those who are colorblind, but also those with low vision 
+who have a difficult time distinguishing
+
+00:03:21.480 --> 00:03:23.920
+certain visual elements.
+
+00:03:23.920 --> 00:03:31.880
+It's worth noting that this criterion did not change at all 
+between WCAG 2.1 and 2.2.
+
+00:03:31.880 --> 00:03:36.120
+Now before I go any further, I just wanted to warn you all that I am an untrustworthy
+
+00:03:36.120 --> 00:03:38.440
+source of information.
+
+00:03:38.440 --> 00:03:42.960
+According to Sarah Barreilles and her Broadway show The Waitress, one of the stars in the
+
+00:03:42.960 --> 00:03:46.560
+show sings the lyrics "He could be colorblind.
+
+00:03:46.560 --> 00:03:51.680
+How untrustworthy is that?" when referring to someone she might go on a date with.
+
+00:03:51.680 --> 00:03:56.280
+So take everything I say here with a grain of salt.
+
+00:03:56.280 --> 00:04:01.080
+I'm just joking here, Sarah Barreilles is an amazing singer and songwriter, and The Waitress
+
+00:04:01.080 --> 00:04:02.880
+is a great musical.
+
+00:04:02.880 --> 00:04:09.280
+I'll just have to ask her what she means by that line,
+if I ever come across her in real life.
+
+00:04:09.280 --> 00:04:13.600
+The next few slides will show some examples of color being used as the only method of
+
+00:04:13.600 --> 00:04:14.600
+showing information.
+
+00:04:14.600 --> 00:04:19.880
+A simple example that you'll see in the next slide is a link that is distinguished from
+
+00:04:19.880 --> 00:04:25.900
+its adjacent text with an underline, which is the default HTML style.
+
+00:04:25.900 --> 00:04:31.320
+If this underline is removed and only the color is used, it can easily become a failure
+
+00:04:31.320 --> 00:04:35.920
+of the success criterion and cause a serious issue for many users who won't be able to
+
+00:04:35.920 --> 00:04:44.600
+tell between what text is a link and what text is not.
+
+00:04:44.600 --> 00:04:48.880
+Here are a couple paragraphs just with lorem ipsum text.
+
+00:04:48.880 --> 00:04:55.520
+The first paragraph contains a link that uses only color, but still technically passes criterion  1.4.1
+
+00:04:48.880 --> 00:04:55.520
+because the contrast ratio between the link text and the non-link text is greater than 3 to 1.
+
+00:05:04.400 --> 00:05:09.160
+But just because you can do something often doesn't mean that you should.
+
+00:05:09.160 --> 00:05:14.240
+The link in the second paragraph has the same color text along with an underline, which
+
+00:05:14.240 --> 00:05:17.720
+makes the difference much clearer.
+
+00:05:17.720 --> 00:05:23.340
+There is a WCAG technique that even suggests to at least add an underline to the link when
+
+00:05:23.340 --> 00:05:31.440
+it is hovered over if you still choose to use only color to distinguish the link.
+
+00:05:31.440 --> 00:05:36.520
+Form field error validation is another classic example of using color as the only way to
+
+00:05:36.520 --> 00:05:38.120
+present information.
+
+00:05:38.120 --> 00:05:41.880
+Fortunately, its solution is incredibly straightforward.
+
+00:05:41.880 --> 00:05:46.680
+As you'll hear quite a bit throughout the presentation, using text along with or instead
+
+00:05:46.680 --> 00:05:53.120
+of color is often the best solution to making sure your design is accessible to those with
+
+00:05:53.120 --> 00:05:56.320
+low vision or color vision deficiency.
+
+00:05:56.320 --> 00:06:02.400
+The first example in this slide fails the success criterion 1.4.1 because a global error
+
+00:06:02.400 --> 00:06:09.060
+message appears at the top of the form that says, "Please fix the errors below."
+
+00:06:09.060 --> 00:06:11.800
+"Fields in error have a red border."
+
+00:06:11.800 --> 00:06:16.640
+Other than the field also being empty, its dark red border is the only difference between
+
+00:06:16.640 --> 00:06:20.760
+the field that has an error and the field that does not.
+
+00:06:20.760 --> 00:06:27.120
+In the second example, which passes the success criterion, the field in error also has a text
+
+00:06:27.120 --> 00:06:32.680
+message below it that says, "Please enter your first name."
+
+00:06:32.680 --> 00:06:36.840
+This next example shows a star rating system on a shopping website that you might be familiar with.
+
+00:06:37.960 --> 00:06:43.520
+It shows five possible stars, three and a half of which are filled with an orange color,
+
+00:06:43.520 --> 00:06:46.180
+and the remaining one and a half are empty.
+
+00:06:46.180 --> 00:06:51.920
+The contrast ratio between the fill color and its adjacent non-filled color is less than
+
+00:06:51.920 --> 00:06:57.200
+three to one, so something more than just color needs to be used here.
+
+00:06:57.200 --> 00:07:02.320
+The only other information presented in text is the total number of ratings for this product,
+
+00:07:02.320 --> 00:07:03.320
+which is 32.
+
+00:07:03.320 --> 00:07:08.840
+But that number does not tell users how many of the stars are actually filled versus not
+
+00:07:08.840 --> 00:07:16.120
+filled, and therefore how many stars the rating has, whether it's a good product or
+
+00:07:16.120 --> 00:07:22.200
+a decent product or a not so good product.
+
+00:07:22.200 --> 00:07:25.440
+Many possible solutions to this problem are shown here.
+
+00:07:25.440 --> 00:07:29.720
+The first example shows the same exact group of five stars, but the color of the filled
+
+00:07:29.720 --> 00:07:34.840
+stars has been darkened quite a bit and therefore has more contrast between the filled stars
+
+00:07:34.840 --> 00:07:37.280
+and the unfilled ones.
+
+00:07:37.280 --> 00:07:43.360
+This increase in hue makes it easier to tell which stars are filled and which are empty.
+
+00:07:43.360 --> 00:07:47.560
+Even more importantly, text has also been added below the stars that provides the number of
+
+00:07:47.560 --> 00:07:50.680
+filled stars, 3.5.
+
+00:07:50.680 --> 00:07:55.000
+The second example is taken straight from Google Reviews and has not been changed since the
+
+00:07:55.000 --> 00:08:04.620
+number of filled stars, 4.8, is provided in text right before the stars themselves.
+
+00:08:04.620 --> 00:08:09.920
+The third and fourth examples come from a section of a WCAG understanding document for
+
+00:08:09.920 --> 00:08:17.120
+a different criterion, 1.4.11 non-text contrast, where the relationship between these two criterions
+
+00:08:17.120 --> 00:08:19.240
+is discussed.
+
+00:08:19.240 --> 00:08:24.680
+Both of these examples pass the use of color criterion because the black fill has a very
+
+00:08:24.680 --> 00:08:32.040
+strong contrast against the not filled ones, and the border of the filled stars is thicker
+
+00:08:32.040 --> 00:08:37.920
+than the non-filled stars in the final example, even though the yellow color of the filled
+
+00:08:37.920 --> 00:08:42.320
+stars has very low contrast with just a white background.
+
+00:08:42.320 --> 00:08:50.800
+The thickened border here acts as an additional visual identifier.
+
+00:08:50.800 --> 00:08:55.680
+Now I'll move on to my personal favorite way to test the use of color in a design.
+
+00:08:55.680 --> 00:09:01.080
+Making the page grayscale and checking if the content can still be understood visually.
+
+00:09:01.080 --> 00:09:06.200
+While actual full color blindness or monochromacy is incredibly rare, you don't necessarily
+
+00:09:06.200 --> 00:09:11.480
+need to have this condition to be affected by an over-reliance on colors in a design.
+
+00:09:11.480 --> 00:09:16.600
+For example, my wife applies a color filter to her phone's display to make everything
+
+00:09:16.600 --> 00:09:21.860
+monochrome or grayscale, which she says makes her less likely to get distracted by her phone
+
+00:09:21.860 --> 00:09:24.180
+during the work day.
+
+00:09:24.180 --> 00:09:32.920
+This means any content that relies on only color to make sense will also be lost on her.
+
+00:09:32.920 --> 00:09:38.080
+This is a simple bar graph created in Microsoft Excel with five bars that are all different
+
+00:09:38.080 --> 00:09:43.680
+colors and do not have a text label below each bar to show their meaning.
+
+00:09:43.680 --> 00:09:48.680
+To the right of these bars is a legend that only refers to the color of each bar in order
+
+00:09:48.680 --> 00:09:50.240
+to associate their meaning.
+
+00:09:50.240 --> 00:09:56.160
+I don't think it's too unreasonable to say that this is not great design, but it is also
+
+00:09:56.160 --> 00:10:01.160
+very common for a bar graph.
+
+00:10:01.160 --> 00:10:05.400
+Here is the same bar graph as before, but it's now in grayscale, where all the bars
+
+00:10:05.400 --> 00:10:09.320
+and their associated legend elements are just shades of gray.
+
+00:10:09.320 --> 00:10:14.200
+While maybe it can be argued that since the order of each bar from left to right matches
+
+00:10:14.200 --> 00:10:18.960
+the order of each item in the legend from top to bottom, the bars can be understood
+
+00:10:18.960 --> 00:10:20.880
+without using color.
+
+00:10:20.880 --> 00:10:23.440
+But that is not guaranteed to always be the case.
+
+00:10:23.440 --> 00:10:26.400
+It probably rarely ever is.
+
+00:10:26.400 --> 00:10:30.940
+And it also adds a lot of unnecessary cognitive load that users should not have to deal with
+
+00:10:30.940 --> 00:10:36.120
+when they're just trying to get information from a bar graph.
+
+00:10:36.120 --> 00:10:41.720
+Here is that same exact bar graph again, but instead of only being distinguishable by color,
+
+00:10:41.720 --> 00:10:48.600
+the bars and legend now use distinct patterns to associate the meaning of each bar.
+
+00:10:48.600 --> 00:10:53.560
+While the patterns might be difficult to see on this slide, they consist of dots, dashes,
+
+00:10:53.560 --> 00:10:57.480
+horizontal and diagonal lines within each bar.
+
+00:10:57.480 --> 00:11:00.960
+Their color here doesn't matter at all.
+
+00:11:00.960 --> 00:11:06.800
+And here's that same bar graph once again, it's the last time, I promise, but in grayscale.
+
+00:11:06.800 --> 00:11:11.200
+Ideally the legend icons here would be larger to more easily see the patterns inside of
+
+00:11:11.200 --> 00:11:15.160
+them, but this is Microsoft Excel.
+
+00:11:15.160 --> 00:11:19.560
+The point is that the bars can now be distinguished based on only their patterns, whether they
+
+00:11:19.560 --> 00:11:22.900
+are filled with colors or just shades of gray.
+
+00:11:22.900 --> 00:11:28.760
+Because once again, the patterns within the bars are the only things that matter.
+
+00:11:28.760 --> 00:11:31.600
+Very nice.
+
+00:11:31.600 --> 00:11:35.880
+Line graphs are another common place to see only color used in a legend to differentiate
+
+00:11:35.880 --> 00:11:37.880
+each data point.
+
+00:11:37.880 --> 00:11:42.180
+And that can be solved in a similar way as the bar graph example.
+
+00:11:42.180 --> 00:11:47.240
+This example shows two possible solutions combined into one line graph.
+
+00:11:47.240 --> 00:11:53.520
+Text labels that point at their respective lines and each line is composed of a different pattern.
+
+00:11:53.520 --> 00:11:58.320
+If you only wanted to use the text labels pointing at the lines, that would be fine.
+
+00:11:58.320 --> 00:12:03.400
+And if you only wanted to have the lines made up of different patterns and use a legend,
+
+00:12:03.400 --> 00:12:05.000
+that would also be fine.
+
+00:12:05.000 --> 00:12:08.340
+But it works here to use both.
+
+00:12:08.340 --> 00:12:11.880
+This feels like a perfect time to show that meme of a young girl raising her shoulders
+
+00:12:11.880 --> 00:12:15.120
+inquisitively and asking, "why not both?"
+
+00:12:15.120 --> 00:12:20.360
+But I think I've already gone over the meme limit here.
+
+00:12:20.360 --> 00:12:25.840
+Speaking of line graphs, this is a good example and possibly also a cruel joke.
+
+00:12:25.840 --> 00:12:30.680
+It's from the Wikipedia page dedicated to congenital red-green color blindness.
+
+00:12:30.680 --> 00:12:35.580
+This is a line graph on that page that shows the luminous efficiency function, which I'll
+
+00:12:35.580 --> 00:12:38.160
+try to quickly explain.
+
+00:12:38.160 --> 00:12:43.160
+Since color blindness affects the eye's sensitivity as a function of a wavelength, like the one
+
+00:12:43.160 --> 00:12:49.080
+shown here, it shifts the response time of a person's eye to make it more or less sensitive
+
+00:12:49.080 --> 00:12:52.280
+to the light from certain wavelengths.
+
+00:12:52.280 --> 00:12:56.840
+People who are colorblind are less sensitive to lights at certain parts of this wavelength
+
+00:12:56.840 --> 00:13:02.200
+and therefore have a harder time seeing the colors at these wavelengths correctly.
+
+00:13:02.200 --> 00:13:09.060
+If that doesn't make much sense, I'm sorry, it doesn't to me either, but blame Wikipedia.
+
+00:13:09.060 --> 00:13:14.920
+The reason this might be a cruel joke is because the lines of the graph use only color, red
+
+00:13:14.920 --> 00:13:18.280
+and green.
+
+00:13:18.280 --> 00:13:23.200
+This is the same line graph from Wikipedia shown in the previous slide, but as of a couple
+
+00:13:23.200 --> 00:13:29.200
+months ago, it was fixed by a colorblind person to give the lines different patterns, dotted,
+
+00:13:29.200 --> 00:13:31.680
+dashed and solid.
+
+00:13:31.680 --> 00:13:36.040
+If only that person chose a better color for the green dashed line, which has an extremely
+
+00:13:36.040 --> 00:13:39.560
+low contrast with its adjacent white color.
+
+00:13:39.560 --> 00:13:47.680
+I'll now just quickly go back to the cognitive load that I mentioned in a previous slide.
+
+00:13:47.680 --> 00:13:52.200
+The previous line graph showing the text labels pointing directly at each line is a great
+
+00:13:52.200 --> 00:13:58.520
+example of data being easier to parse when text is used instead of colors or even patterns.
+
+00:13:58.520 --> 00:14:03.080
+Often times, the simplest solution is the best one, and using text labels is really
+
+00:14:03.080 --> 00:14:05.460
+as simple as it gets.
+
+00:14:05.460 --> 00:14:09.760
+Even when patterns can make charts and graphs perceivable for more people, they still require
+
+00:14:09.760 --> 00:14:14.820
+the user to look back and forth between the chart and legend, and they need to remember
+
+00:14:14.820 --> 00:14:18.140
+what pattern and data points are associated.
+
+00:14:18.140 --> 00:14:23.120
+This adds to cognitive load, and while sometimes necessary, if the text labels are too long
+
+00:14:23.120 --> 00:14:28.020
+or complex to fit anywhere within the chart, it's still best to consider the text label
+
+00:14:28.020 --> 00:14:32.960
+first and use that if possible.
+
+00:14:32.960 --> 00:14:37.080
+While reading an article recently about the environmental impact of downloaded versus
+
+00:14:37.080 --> 00:14:43.840
+physical versus cloud-based media, which is a very interesting but unrelated topic, I
+
+00:14:43.840 --> 00:14:47.200
+came across a few different types of graphs and charts.
+
+00:14:47.200 --> 00:14:52.640
+The next few slides will go over these real-world examples of the use of color on the web.
+
+00:14:52.640 --> 00:14:58.200
+Keep in mind that these also have issues with text contrast and text alternatives, but try
+
+00:14:58.200 --> 00:15:05.600
+to focus on just how colors are used visually to convey the information.
+
+00:15:05.600 --> 00:15:08.740
+This first chart on the page was a very interesting one.
+
+00:15:08.740 --> 00:15:14.680
+The caption directly below this graphic refers to multiple things, color and position, referring
+
+00:15:14.680 --> 00:15:19.560
+to elements that are red on the left, or blue and on the right.
+
+00:15:19.560 --> 00:15:25.680
+They're also labeled in text as upstream activities and downstream activities, ultimately making
+
+00:15:25.680 --> 00:15:28.260
+the reference to colors unnecessary.
+
+00:15:28.260 --> 00:15:31.120
+This would pass the criterion.
+
+00:15:31.120 --> 00:15:36.740
+But the circles added to the image by the author are more of a concern.
+
+00:15:36.740 --> 00:15:41.400
+Right below the graphic and its caption, the author states, "Last time we looked at all
+
+00:15:41.400 --> 00:15:44.920
+the parts of game production circled in red.
+
+00:15:44.920 --> 00:15:48.960
+This time, we're looking at the parts circled in blue."
+
+00:15:48.960 --> 00:15:53.480
+This sentence does not reference these elements in any other way, such as using the text label
+
+00:15:53.480 --> 00:15:56.440
+for each of the circled elements.
+
+00:15:56.440 --> 00:16:02.280
+Since all the reader has to go by here is the color that the author used for each circle,
+
+00:16:02.280 --> 00:16:07.360
+this would fail the criterion.
+
+00:16:07.360 --> 00:16:14.040
+The next example has some type of bar graph/pi chart hybrid thing, where there is an x-axis
+
+00:16:14.040 --> 00:16:22.100
+with number of hours playing game and game file size in gigabytes on the y-axis.
+
+00:16:22.100 --> 00:16:28.680
+Three different sections fill the entire graph area, each with their own background color.
+
+00:16:28.680 --> 00:16:32.840
+Cloud gaming, disk gaming, and download gaming.
+
+00:16:32.840 --> 00:16:37.500
+Since each of these sections also has its own text label within it, it passes the use
+
+00:16:37.500 --> 00:16:39.760
+of color criterion.
+
+00:16:39.760 --> 00:16:43.680
+The text contrast is insufficient though, so that would need to be improved in order
+
+00:16:43.680 --> 00:16:47.940
+to pass that criterion.
+
+00:16:47.940 --> 00:16:53.120
+The final example from this article is a fairly standard bar graph with ten different groups
+
+00:16:53.120 --> 00:16:56.120
+of vertical bars along the x-axis.
+
+00:16:56.120 --> 00:17:01.200
+Each group has a text below it, but the little bars within each group, of which there are
+
+00:17:01.200 --> 00:17:06.760
+six, are only distinguished with color based on a legend below the graph.
+
+00:17:06.760 --> 00:17:10.080
+Some of these colors are extremely similar to each other.
+
+00:17:10.080 --> 00:17:13.680
+Since the bars are also very close together and there is not much space for a text label
+
+00:17:13.680 --> 00:17:20.640
+for each, a distinct pattern for each bar would be probably the best solution here.
+
+00:17:20.640 --> 00:17:24.760
+If the graph was an interactive element and not entirely embedded in an image, there would
+
+00:17:24.760 --> 00:17:29.920
+also be the option to make each bar hoverable with a mouse and focusable with a keyboard,
+
+00:17:29.920 --> 00:17:33.840
+which would show a tool tip that exposes a label for each bar.
+
+00:17:33.840 --> 00:17:38.160
+That would suffice as an additional visual indicator.
+
+00:17:38.160 --> 00:17:42.560
+Providing an accessible alternative is often a good way to provide content for users where
+
+00:17:42.560 --> 00:17:47.880
+a certain format is required, such as a complex chart or graph, but is overly difficult to
+
+00:17:47.880 --> 00:17:49.720
+make fully accessible.
+
+00:17:49.720 --> 00:17:55.120
+In the following example from Wikipedia, the content is provided in multiple ways.
+
+00:17:55.120 --> 00:18:00.880
+One is very inaccessible since it is an image with embedded text that uses only color, but
+
+00:18:00.880 --> 00:18:08.560
+most of the same information is provided in an unordered list and a data table.
+
+00:18:08.560 --> 00:18:14.040
+Here is an interesting timeline graph contained in an embedded image on Wikipedia that shows
+
+00:18:14.040 --> 00:18:18.560
+the lineup of a band from 1999 to 2023.
+
+00:18:18.560 --> 00:18:23.320
+The Y axis has the name of each band member and the X axis has the years that the band
+
+00:18:23.320 --> 00:18:24.320
+has been active.
+
+00:18:24.320 --> 00:18:29.560
+A horizontal bar for each band member shows how long they are in the band for and the
+
+00:18:29.560 --> 00:18:33.960
+instrument they played is shown by the color of the bar and referenced in a legend below
+
+00:18:33.960 --> 00:18:36.420
+the graph.
+
+00:18:36.420 --> 00:18:40.520
+The color issue could be easily solved by adding the band member's instrument next to
+
+00:18:40.520 --> 00:18:45.800
+the name on the Y axis, but since the same information is already provided in an unordered
+
+00:18:45.800 --> 00:18:51.280
+list above the graph, this might not be necessary.
+
+00:18:51.280 --> 00:18:55.120
+This is the unordered list that I referred to in the previous slide that contains the
+
+00:18:55.120 --> 00:19:00.600
+same exact information as the graph, showing the members separated by current and former
+
+00:19:00.600 --> 00:19:03.880
+along with their instrument and years active in the band.
+
+00:19:03.880 --> 00:19:09.440
+The information about the number of EPs and studio albums is also provided in a data table
+
+00:19:09.440 --> 00:19:12.280
+in the discography section of the page.
+
+00:19:12.280 --> 00:19:16.380
+The next slide will show an edited version of the band member graph that is accessible
+
+00:19:16.380 --> 00:19:23.640
+for colorblind users and has all the information in one place, because why not?
+
+00:19:23.640 --> 00:19:27.480
+Here is the same graph showing the members of the band throughout the years, but every
+
+00:19:27.480 --> 00:19:32.800
+horizontal bar is the same color and the instruments are added as text next to each member's name
+
+00:19:32.800 --> 00:19:34.520
+on the Y axis.
+
+00:19:34.520 --> 00:19:40.720
+The type of album released in certain years, EP or studio album, is also labeled with text
+
+00:19:40.720 --> 00:19:43.160
+pointing to each vertical line.
+
+00:19:43.160 --> 00:19:46.860
+This is also referenced using only color in the original graph.
+
+00:19:46.860 --> 00:19:51.580
+The best of both worlds are provided here, a simple unordered list and table that contains
+
+00:19:51.580 --> 00:19:56.480
+all the same information and a graph with that same information that does not rely on
+
+00:19:56.480 --> 00:19:59.680
+colors at all.
+
+00:19:59.680 --> 00:20:04.760
+The next few slides will show a few more classic examples of color being used incorrectly on
+
+00:20:04.760 --> 00:20:06.240
+the web.
+
+00:20:06.240 --> 00:20:09.300
+This is an interactive seating chart for a theater.
+
+00:20:09.300 --> 00:20:12.360
+All seats in the theater are represented by circles.
+
+00:20:12.360 --> 00:20:18.880
+Any circles filled with black are available for purchase and the gray circles are unavailable.
+
+00:20:18.880 --> 00:20:22.400
+There are also two seats somewhere in the theater that have been selected for purchase
+
+00:20:22.400 --> 00:20:23.400
+already.
+
+00:20:23.400 --> 00:20:27.160
+Can you find them?
+
+00:20:27.160 --> 00:20:32.440
+If you were able to spot those seats, congratulations, you have the vision of Superman.
+
+00:20:32.440 --> 00:20:36.960
+For me anyway, it was impossible to tell which seats had already been selected.
+
+00:20:36.960 --> 00:20:41.040
+This slide shows the same exact seat selector, but with the selected seats contained in a
+
+00:20:41.040 --> 00:20:44.640
+blue rectangle to more clearly point them out.
+
+00:20:44.640 --> 00:20:48.320
+This quite clearly fails the use of color criterion and is just difficult
+
+00:20:44.640 --> 00:20:48.320
+for people in general to use.
+
+00:20:53.100 --> 00:20:56.280
+This is a much more accessible way to show a seating chart.
+
+00:20:56.280 --> 00:21:00.320
+The only thing missing here is the legend that shows the meaning of each type of pattern,
+
+00:21:00.320 --> 00:21:03.480
+whether it's filled, empty, or with dashed lines.
+
+00:21:03.480 --> 00:21:07.960
+There are different colors being used here, but they do not mean much since each seating
+
+00:21:07.960 --> 00:21:13.360
+section is also labeled with text over on the left side.
+
+00:21:13.360 --> 00:21:21.320
+This is taken from an article called "Accessibility Theater" from a TPGI colleague, Doug Abrams.
+
+00:21:21.320 --> 00:21:25.540
+This was another interesting example I came across in a native app.
+
+00:21:25.540 --> 00:21:31.180
+It's in a travel booking app when a user is scheduling their stay.
+
+00:21:31.180 --> 00:21:36.040
+Only color is being used to distinguish the different price ranges of certain dates, cheaper,
+
+00:21:36.040 --> 00:21:38.520
+average, or higher than usual.
+
+00:21:38.520 --> 00:21:43.720
+This is great information to know when trying to decide when to schedule a trip, but unfortunately
+
+00:21:43.720 --> 00:21:48.840
+the only things providing this information are very similar background colors.
+
+00:21:48.840 --> 00:21:52.620
+Using patterns within these dates might be a challenge since they might conflict with
+
+00:21:52.620 --> 00:21:54.420
+the number itself.
+
+00:21:54.420 --> 00:21:58.160
+In this case, the pattern would need to be very simple, and the number would need to
+
+00:21:58.160 --> 00:22:02.240
+maintain strong contrast against it.
+
+00:22:02.240 --> 00:22:07.300
+Next up, I'll go through a few more examples that I've come across either in the real world
+
+00:22:07.300 --> 00:22:10.120
+or around places online, such as Reddit.
+
+00:22:10.120 --> 00:22:14.960
+I want to point out just how common it is to come across designs where color is used
+
+00:22:14.960 --> 00:22:18.200
+as the one and only way to understand information.
+
+00:22:18.200 --> 00:22:24.240
+It goes far beyond just graphs, charts, and form fields.
+
+00:22:24.240 --> 00:22:29.500
+This first example found on Reddit is a map of China's many counties, separated with different
+
+00:22:29.500 --> 00:22:33.560
+colors that represent the predominant religion in that county.
+
+00:22:33.560 --> 00:22:37.440
+Not only is color the only thing being used here, but some of the colors are extremely
+
+00:22:37.440 --> 00:22:41.600
+similar and might be hard to tell apart even for people with no color vision deficiency
+
+00:22:41.600 --> 00:22:43.320
+at all.
+
+00:22:43.320 --> 00:22:47.560
+Since some of these counties are incredibly small, would using different patterns work
+
+00:22:47.560 --> 00:22:48.560
+here?
+
+00:22:48.560 --> 00:22:50.080
+I don't think so.
+
+00:22:50.080 --> 00:22:55.400
+I would recommend adding text directly below the image with a heading for each religion,
+
+00:22:55.400 --> 00:22:59.600
+followed by an unordered list containing the name of each county where that religion is
+
+00:22:59.600 --> 00:23:00.600
+predominant.
+
+00:23:00.600 --> 00:23:05.960
+It would be a very long list, so each one should be contained in a collapsible component
+
+00:23:05.960 --> 00:23:10.080
+if vertical space is a concern.
+
+00:23:10.080 --> 00:23:15.440
+Here's a screen from a toddler's lesson on YouTube, from a creator called Ms. Rachel,
+
+00:23:15.440 --> 00:23:18.920
+with a Christmas tree that has four ornaments of different colors.
+
+00:23:18.920 --> 00:23:22.320
+The question for the student is, which ornament is purple?
+
+00:23:22.320 --> 00:23:28.360
+Now, I'm not a parent or a teacher, so I could be off base here, but it seems inconsiderate
+
+00:23:28.360 --> 00:23:31.080
+at the least to ask this question.
+
+00:23:31.080 --> 00:23:33.560
+Kids can be colorblind too, after all.
+
+00:23:33.560 --> 00:23:37.120
+Why not ask about the color and the symbol on the ornament?
+
+00:23:37.120 --> 00:23:40.320
+Each ornament already has a unique graphic on it.
+
+00:23:40.320 --> 00:23:45.480
+Maybe something like, which ornament is purple and has a snowflake with six points?
+
+00:23:45.480 --> 00:23:48.640
+Does that give away the answer too easily, or make it too difficult?
+
+00:23:48.640 --> 00:23:54.800
+I'm not really sure, but if the child already has difficulty telling apart purple and blue,
+
+00:23:54.800 --> 00:23:58.480
+the original question is already flawed.
+
+00:23:58.480 --> 00:24:01.680
+Many of the comments on this thread mention that colorblind people just assume that the
+
+00:24:01.680 --> 00:24:07.280
+one with the darker hue is purple, when they need to compare purple and blue.
+
+00:24:07.280 --> 00:24:13.880
+I can tell from experience that this doesn't always work, but it is an interesting approach.
+
+00:24:13.880 --> 00:24:18.440
+Here's something from Out in the Real World, on a real piece of paper.
+
+00:24:18.440 --> 00:24:23.480
+It's a little word puzzle called Wave Words, where it asks the user, "What are these colorful
+
+00:24:23.480 --> 00:24:25.640
+fish trying to spell out?"
+
+00:24:25.640 --> 00:24:28.480
+Use the key below to reveal the answer.
+
+00:24:28.480 --> 00:24:33.480
+Two rows of fish with the same exact shape but different colors each make up a letter
+
+00:24:33.480 --> 00:24:36.840
+in the phrase, which has two words in it.
+
+00:24:36.840 --> 00:24:40.880
+Below that is a key with many different colored fish and the letter they represent.
+
+00:24:40.880 --> 00:24:45.960
+The problem here is that all the fish are exactly the same size and shape, meaning only
+
+00:24:45.960 --> 00:24:48.760
+the color can be used to tell them apart.
+
+00:24:48.760 --> 00:24:52.480
+The first solution I can think of is to use some different sea creatures with different
+
+00:24:52.480 --> 00:24:53.480
+shapes.
+
+00:24:53.480 --> 00:25:01.140
+Whales, dolphins, octopus, jellyfish, crabs, there's so many options here.
+
+00:25:01.140 --> 00:25:05.840
+This is a companion planting chart, where 30 plants are shown with their relationships
+
+00:25:05.840 --> 00:25:07.560
+to other plants.
+
+00:25:07.560 --> 00:25:11.240
+Whether they grow well when planted next to each other, if their combination would help
+
+00:25:11.240 --> 00:25:16.400
+with bug control, if they shouldn't be planted anywhere near one another, and so on.
+
+00:25:16.400 --> 00:25:21.080
+There are many ways to present this information, but this designer chose to use a key where
+
+00:25:21.080 --> 00:25:25.160
+colors represent their relationships with the main plant in question.
+
+00:25:25.160 --> 00:25:31.240
+For example, in the broccoli section, the text for tomatoes is red, which means broccoli
+
+00:25:31.240 --> 00:25:33.960
+and tomatoes should not be planted together.
+
+00:25:33.960 --> 00:25:38.640
+For gardeners, this is pretty vital information that could lead to bad results in the food
+
+00:25:38.640 --> 00:25:42.200
+they grow for themselves and their families.
+
+00:25:42.200 --> 00:25:46.480
+Relying on just different colored text here can potentially have a very real impact.
+
+00:25:46.480 --> 00:25:50.400
+Don't even get me started on screen reader interactivity here.
+
+00:25:50.400 --> 00:25:54.520
+Unless a lot of visually hidden content is attached to the name of every plant in order
+
+00:25:54.520 --> 00:25:59.200
+to tell assistive technology users how they relate to other plants, this chart could be
+
+00:25:59.200 --> 00:26:03.880
+completely useless to these users.
+
+00:26:03.880 --> 00:26:09.120
+And here's a table showing very similar information as the previous one, but this time it's presented
+
+00:26:09.120 --> 00:26:15.280
+in a table with plant, companion, enemy, and additional info column headers.
+
+00:26:15.280 --> 00:26:19.720
+Colors are not relied upon at all here, and the different associations between the plants
+
+00:26:19.720 --> 00:26:22.640
+can be seen just from the table's structure.
+
+00:26:22.640 --> 00:26:27.160
+Screen reader users can also understand this information in the table, assuming it's marked
+
+00:26:27.160 --> 00:26:28.940
+up correctly.
+
+00:26:28.940 --> 00:26:33.840
+This isn't a PDF, so odds are likely that it's not marked up with the correct tags,
+
+00:26:33.840 --> 00:26:38.240
+but that's a different topic for a whole different presentation.
+
+00:26:38.240 --> 00:26:42.560
+Moving into a slightly different topic for a little while, this slide shows two images
+
+00:26:42.560 --> 00:26:45.240
+of the board game Ticket to Ride.
+
+00:26:45.240 --> 00:26:48.960
+Colors are certainly a factor here, since players need to claim certain routes on the
+
+00:26:48.960 --> 00:26:52.840
+board based on the color of their game piece.
+
+00:26:52.840 --> 00:26:56.320
+But each route is also distinguished by a distinct shape.
+
+00:26:56.320 --> 00:27:01.480
+Each card that the player uses to lay out their route has a shape in all four corners
+
+00:27:01.480 --> 00:27:05.000
+that corresponds to each available route on the board.
+
+00:27:05.000 --> 00:27:10.120
+This gives players an option to use color or shape to work out the route and play the
+
+00:27:10.120 --> 00:27:12.120
+game.
+
+00:27:12.120 --> 00:27:17.860
+Now we'll go a little bit beyond board games and go into traveling in the real world.
+
+00:27:17.860 --> 00:27:21.320
+Public transportation is used by millions of people, so you would think that more focus
+
+00:27:21.320 --> 00:27:26.960
+would be put on making sure their maps are accessible for as many riders as possible.
+
+00:27:26.960 --> 00:27:29.480
+In some cases, this is true, thankfully.
+
+00:27:29.480 --> 00:27:34.960
+But in the case of London's Tube map specifically, which will be shown in the next slide, this
+
+00:27:34.960 --> 00:27:38.160
+is not the case.
+
+00:27:38.160 --> 00:27:43.560
+Shown here is a very small piece of the London Tube map, along with a large version of the
+
+00:27:43.560 --> 00:27:45.240
+map's legend.
+
+00:27:45.240 --> 00:27:49.200
+Colorblind riders of the London Tube cannot easily tell the difference between the colors
+
+00:27:49.200 --> 00:27:54.360
+and the legend, so you'll find it very difficult to know which line is which on the map.
+
+00:27:54.360 --> 00:27:56.040
+That's a big problem.
+
+00:27:56.040 --> 00:27:59.680
+While those who ride it every day will most likely adjust to this and remember which lines
+
+00:27:59.680 --> 00:28:04.840
+go where after riding them so many times, it's still a big problem for visitors and
+
+00:28:04.840 --> 00:28:08.760
+many other colorblind people who don't ride these rails every day and just need to get
+
+00:28:08.760 --> 00:28:13.080
+from point A to point B.
+
+00:28:13.080 --> 00:28:17.080
+Here's a small section of the London Tube map, the same section shown on the previous
+
+00:28:17.080 --> 00:28:21.600
+slide where I at least as close as I could get to it, but this version is fully black
+
+00:28:21.600 --> 00:28:27.680
+and white and uses only patterns in its legend to distinguish each line.
+
+00:28:27.680 --> 00:28:29.760
+This is provided by Transport for London.
+
+00:28:29.760 --> 00:28:34.640
+It has a legend very similar to the colored version than the previous one, but only different
+
+00:28:34.640 --> 00:28:36.600
+patterns are used.
+
+00:28:36.600 --> 00:28:41.000
+While this is still a complex map with many overlapping lines and different patterns,
+
+00:28:41.000 --> 00:28:44.960
+it's definitely an improvement for colorblind travelers since it does not rely on color
+
+00:28:44.960 --> 00:28:48.880
+at all.
+
+00:28:48.880 --> 00:28:54.080
+In contrast to the London Underground map, the New York City Subway map uses numbers,
+
+00:28:54.080 --> 00:28:59.880
+letters, shapes, and even lines with distinct patterns depending on whether it's a train,
+
+00:28:59.880 --> 00:29:01.680
+bus, or commuter rail.
+
+00:29:01.680 --> 00:29:05.560
+It can still be overwhelming for those of us who don't live in New York City and use
+
+00:29:05.560 --> 00:29:09.080
+it every day, but that's more of a general problem.
+
+00:29:09.080 --> 00:29:13.280
+You can be just as confused by this gigantic map and its legend whether you're colorblind
+
+00:29:13.280 --> 00:29:14.280
+or not.
+
+00:29:14.280 --> 00:29:15.280
+Isn't that fun?
+
+00:29:15.280 --> 00:29:21.720
+In the final few slides for my presentation, we'll be looking at a couple of very popular
+
+00:29:21.720 --> 00:29:25.320
+puzzle video games that use color.
+
+00:29:25.320 --> 00:29:30.240
+One of them is an arcade and console game from 1996, and the other is a mobile game
+
+00:29:30.240 --> 00:29:31.240
+from 2019.
+
+00:29:31.240 --> 00:29:36.960
+You can probably guess which of the two has accessibility options that make it more playable
+
+00:29:36.960 --> 00:29:42.320
+for those who cannot distinguish colors.
+
+00:29:42.320 --> 00:29:46.280
+When I first tried playing Puzzle Fighter II as a kid, which is a puzzle game where
+
+00:29:46.280 --> 00:29:51.000
+you need to clear the board by aligning gems of the same color to make them disappear,
+
+00:29:51.000 --> 00:29:56.120
+sort of a spin-off, a puzzle version of Street Fighter II, the gems just weren't disappearing
+
+00:29:56.120 --> 00:29:58.680
+even though I thought I was matching them up correctly.
+
+00:29:58.680 --> 00:30:01.920
+I just took it as a sign that the game was broken and walked away frustrated.
+
+00:30:01.920 --> 00:30:05.360
+There were plenty of other games to play.
+
+00:30:05.360 --> 00:30:09.920
+After trying it again recently as an adult, I asked my wife if I was placing the correct
+
+00:30:09.920 --> 00:30:12.000
+yellow pieces next to each other.
+
+00:30:12.000 --> 00:30:17.600
+She said some were yellow and some were bright green.
+
+00:30:17.600 --> 00:30:21.280
+Here's a zoomed-in example of the gems from Puzzle Fighter II.
+
+00:30:21.280 --> 00:30:26.000
+All four different colored square gems are shown here, other than the one special circular
+
+00:30:26.000 --> 00:30:27.000
+gem.
+
+00:30:27.000 --> 00:30:30.760
+You can see how these gems look exactly the same aside from their different colors.
+
+00:30:30.760 --> 00:30:37.120
+To my eyes, there are only three distinct colors here, red, yellow, and blue.
+
+00:30:37.120 --> 00:30:40.480
+While the console version of this game has options for adjusting the difficulty of the
+
+00:30:40.480 --> 00:30:45.960
+AI and how quickly the gems fall into the play area from the top, there are no options
+
+00:30:45.960 --> 00:30:50.000
+to make the gems easier to tell apart for colorblind users.
+
+00:30:50.000 --> 00:30:55.720
+Making them into differently shaped gems would be one very helpful option.
+
+00:30:55.720 --> 00:31:00.240
+On the other hand, this newer game called Grindstone, another puzzle game where players
+
+00:31:00.240 --> 00:31:04.560
+need to clear the board by matching items of the same color, has a lot of accessibility
+
+00:31:04.560 --> 00:31:07.200
+baked right into its design.
+
+00:31:07.200 --> 00:31:11.120
+Each monster has a very distinct design with different shapes and colors.
+
+00:31:11.120 --> 00:31:16.520
+When a certain type of monster is chosen, the rest of the board becomes much darker,
+
+00:31:16.520 --> 00:31:21.160
+only keeping monsters of that same type really noticeable and bright.
+
+00:31:21.160 --> 00:31:24.800
+This not only helps colorblind players, but it's a nice option to make the game a little
+
+00:31:24.800 --> 00:31:32.200
+bit easier to play in general for beginners or those who just want to play it more casually.
+
+00:31:32.200 --> 00:31:36.280
+This design choice does not change the gameplay at all, and is an option that can be turned
+
+00:31:36.280 --> 00:31:39.680
+off or set to a lower difference in contrast.
+
+00:31:39.680 --> 00:31:43.360
+This slide shows the same screenshots from the previous one, but this time they're in
+
+00:31:43.360 --> 00:31:48.000
+grayscale, just to show that each puzzle piece can still be distinguished even when color
+
+00:31:48.000 --> 00:31:50.600
+is no longer a factor.
+
+00:31:50.600 --> 00:31:55.240
+Making this game more accessible with this option does not make it any less fun or dangerously
+
+00:31:55.240 --> 00:31:58.080
+addicting.
+
+00:31:58.080 --> 00:32:02.600
+Many video game players like to argue about whether or not accessibility options should
+
+00:32:02.600 --> 00:32:05.920
+be allowed within their video games.
+
+00:32:05.920 --> 00:32:11.200
+As they say, they make the game too easy, or they conflict with the designer's true
+
+00:32:11.200 --> 00:32:13.300
+intentions.
+
+00:32:13.300 --> 00:32:16.160
+I find these arguments completely ridiculous.
+
+00:32:16.160 --> 00:32:19.960
+First of all, they're usually options that can be turned on or off.
+
+00:32:19.960 --> 00:32:24.000
+If you want a super difficult game, just don't use the options.
+
+00:32:24.000 --> 00:32:30.920
+Also, as shown in this game, they can be baked straight into the design and still be a fantastic
+
+00:32:30.920 --> 00:32:37.920
+game that all players can enjoy, whether or not they're colorblind or have other disabilities.
+
+00:32:37.920 --> 00:32:43.920
+Now, because I can't possibly mention video games without bringing up the ultimate puzzle
+
+00:32:43.920 --> 00:32:49.440
+game to ever exist, here is the original version of Tetris, designed and programmed in the
+
+00:32:49.440 --> 00:32:54.760
+USSR in 1985 by Alexei Pajitnov.
+
+00:32:54.760 --> 00:32:59.860
+He was using an Electronica 60 computer with a monochrome display, so his design needed
+
+00:32:59.860 --> 00:33:04.160
+to work with visual means other than just colors.
+
+00:33:04.160 --> 00:33:09.240
+What he ended up designing was Tetris, where various shapes called Tetraminos need to fit
+
+00:33:09.240 --> 00:33:14.840
+together to clear lines, while more randomly fell from the top of the screen at increasing
+
+00:33:14.840 --> 00:33:15.840
+speeds.
+
+00:33:15.840 --> 00:33:20.480
+I'm assuming most people here have at least heard of Tetris by now, if not played it,
+
+00:33:20.480 --> 00:33:23.440
+for hundreds and hundreds of hours.
+
+00:33:23.440 --> 00:33:27.800
+The Tetramino blocks in the original version are all made up of simple pairs of square
+
+00:33:27.800 --> 00:33:29.400
+brackets.
+
+00:33:29.400 --> 00:33:33.200
+Over the years, colors have been added to these blocks and the game has been modernized
+
+00:33:33.200 --> 00:33:39.320
+in some ways, but never has color been a major part of the game, which has sold, by the way,
+
+00:33:39.320 --> 00:33:43.040
+about 520 million copies.
+
+00:33:43.040 --> 00:33:47.480
+So to wrap things up for my presentation, I'd like to summarize just a few things regarding
+
+00:33:47.480 --> 00:33:50.240
+the use of color in design.
+
+00:33:50.240 --> 00:33:54.780
+Of course, color should be used in your design, they just need to be considered and not be
+
+00:33:54.780 --> 00:33:58.240
+the only thing that conveys content.
+
+00:33:58.240 --> 00:34:03.080
+When designing your next project, consider how different shapes, patterns, or text labels
+
+00:34:03.080 --> 00:34:06.760
+can be used alongside colors.
+
+00:34:06.760 --> 00:34:12.200
+When creating content, remember not to use instructions like "click the green link"
+
+00:34:12.200 --> 00:34:16.560
+or "the field of the red border" is an error.
+
+00:34:16.560 --> 00:34:22.280
+For many more examples of this, refer to the article on the TPGI blog titled "Well Color
+
+00:34:22.280 --> 00:34:29.880
+Us Surprised, This SC Can Be a Tricky Customer" from the great TPGI colleague Ian Lloyd.
+
+00:34:29.880 --> 00:34:33.280
+Thank you very much, and I'd like to answer any questions that you might have.
+
