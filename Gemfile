@@ -14,7 +14,7 @@ gem "minima", "~> 2.1", ">= 2.1.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", ">= 198", group: :jekyll_plugins
+gem "github-pages", ">= 204", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -25,5 +25,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Update for security issues
-gem "nokogiri", "~> 1.10.8"
+gem "nokogiri", "~> 1.13.6"
 gem "rubyzip", ">= 1.3.0"
