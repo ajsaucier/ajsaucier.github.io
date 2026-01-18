@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Focus on tracking focus
+permalink: /accessibility/focus-on-tracking-focus
 categories: accessibility
 description: There is a simple way to track focus in real time with Chromium browsers, which many developers are not aware of.
 ---
