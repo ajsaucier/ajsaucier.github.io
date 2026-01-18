@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Focus on tracking focus
-permalink: /accessibility/focus-on-tracking-focus
 categories: accessibility
 description: There is a simple way to track focus in real time with Chromium browsers, which many developers are not aware of.
 ---
+
 I haven't written a blog post in six years.
 
 During those six years, I've helped a lot of development teams improve the accessibility of their web apps and sites. The most common issue that I come across by a long shot is a lack of testing for keyboard focus management. It seems to be the thing that most developers don't consider at all - things like headings not being marked up properly and images not having text alternatives are still prominent issues, but when I mention them to developers, they usually respond with something like, "Oh yeah, I forgot about that." When I mention keyboard focus and how it goes to the `<body>` element when a "Delete" button is activated and gets removed from the DOM or when a modal dialog is closed, the response is more along the lines of, "Oh, I didn't think about that."
 
-My advice is always the same: 
+My advice is always the same:
+
 1. [Add a live expression in Chrome](https://developer.chrome.com/docs/devtools/accessibility/focus) that lets you track focus.
 2. Keep the Console tab open in the Dev Inspector.
 3. Track where focus is going in real time, all the time.
